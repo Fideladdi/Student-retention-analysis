@@ -1,0 +1,3046 @@
+AdmitTerm,School,Program,NationalStatus,AdmissionPathway,Enrolled,Retained
+
+Fall 2016,School A,CTD,DOMESTIC,Direct Entry,199,172
+
+Fall 2016,School A,CTD,DOMESTIC,Transfer,64,55
+
+Fall 2016,School A,CTD,INTERNATIONAL,Direct Entry,10,9
+
+Fall 2016,School A,CTD,INTERNATIONAL,Transfer,5,4
+
+Fall 2016,School A,DIB,DOMESTIC,Direct Entry,26,21
+
+Fall 2016,School A,DIB,DOMESTIC,Transfer,10,8
+
+Fall 2016,School A,DIB,INTERNATIONAL,Direct Entry,5,3
+
+Fall 2016,School A,DIB,INTERNATIONAL,Transfer,2,1
+
+Fall 2016,School A,HBP,DOMESTIC,Direct Entry,398,318
+
+Fall 2016,School A,HBP,DOMESTIC,Foundation,116,94
+
+Fall 2016,School A,HBP,DOMESTIC,Transfer,48,34
+
+Fall 2016,School A,HBP,INTERNATIONAL,Direct Entry,81,64
+
+Fall 2016,School A,HBP,INTERNATIONAL,Foundation,18,14
+
+Fall 2016,School A,HBP,INTERNATIONAL,Transfer,6,4
+
+Fall 2016,School A,YDD,DOMESTIC,Direct Entry,24,21
+
+Fall 2016,School A,YDD,DOMESTIC,Transfer,16,13
+
+Fall 2016,School A,YDD,INTERNATIONAL,Direct Entry,5,3
+
+Fall 2016,School A,YDD,INTERNATIONAL,Transfer,2,1
+
+Fall 2016,School A,ZVS,DOMESTIC,Direct Entry,5,5
+
+Fall 2016,School A,ZVS,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2016,School B,AEX,DOMESTIC,Direct Entry,14,11
+
+Fall 2016,School B,AEX,DOMESTIC,Transfer,7,6
+
+Fall 2016,School B,AEX,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2016,School B,CCH,DOMESTIC,Direct Entry,1,1
+
+Fall 2016,School B,DLF,DOMESTIC,Direct Entry,53,50
+
+Fall 2016,School B,DLF,DOMESTIC,Foundation,17,15
+
+Fall 2016,School B,DLF,DOMESTIC,Transfer,4,3
+
+Fall 2016,School B,DLF,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2016,School B,ENR,DOMESTIC,Direct Entry,20,16
+
+Fall 2016,School B,ENR,DOMESTIC,Transfer,9,8
+
+Fall 2016,School B,ENR,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2016,School B,FJC,DOMESTIC,Direct Entry,16,12
+
+Fall 2016,School B,FJC,DOMESTIC,Transfer,8,6
+
+Fall 2016,School B,FJC,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2016,School B,GIZ,DOMESTIC,Direct Entry,30,26
+
+Fall 2016,School B,GIZ,DOMESTIC,Transfer,14,12
+
+Fall 2016,School B,GIZ,INTERNATIONAL,Direct Entry,8,7
+
+Fall 2016,School B,JQP,DOMESTIC,Direct Entry,68,58
+
+Fall 2016,School B,JQP,DOMESTIC,Transfer,29,25
+
+Fall 2016,School B,JQP,INTERNATIONAL,Direct Entry,4,3
+
+Fall 2016,School B,NSU,DOMESTIC,Direct Entry,16,14
+
+Fall 2016,School B,NSU,DOMESTIC,Transfer,6,5
+
+Fall 2016,School B,NSU,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2016,School B,NSU,INTERNATIONAL,Transfer,2,1
+
+Fall 2016,School B,UQU,DOMESTIC,Direct Entry,13,11
+
+Fall 2016,School B,UQU,DOMESTIC,Transfer,9,8
+
+Fall 2016,School B,UQU,INTERNATIONAL,Direct Entry,3,1
+
+Fall 2016,School B,XEM,DOMESTIC,Direct Entry,48,42
+
+Fall 2016,School B,XEM,DOMESTIC,Foundation,24,22
+
+Fall 2016,School B,XEM,DOMESTIC,Transfer,4,3
+
+Fall 2016,School B,XEM,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2016,School C,AFX,DOMESTIC,Direct Entry,37,28
+
+Fall 2016,School C,AFX,DOMESTIC,Transfer,16,11
+
+Fall 2016,School C,AFX,INTERNATIONAL,Direct Entry,4,3
+
+Fall 2016,School C,CQK,DOMESTIC,Direct Entry,40,40
+
+Fall 2016,School C,CQK,DOMESTIC,Foundation,12,12
+
+Fall 2016,School C,CQK,DOMESTIC,Transfer,2,1
+
+Fall 2016,School C,CQK,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2016,School C,CQK,INTERNATIONAL,Transfer,1,0
+
+Fall 2016,School C,FOR,DOMESTIC,Direct Entry,47,40
+
+Fall 2016,School C,FOR,DOMESTIC,Foundation,12,10
+
+Fall 2016,School C,FOR,DOMESTIC,Transfer,3,2
+
+Fall 2016,School C,FOR,INTERNATIONAL,Direct Entry,3,1
+
+Fall 2016,School C,FOR,INTERNATIONAL,Transfer,2,1
+
+Fall 2016,School C,HIQ,DOMESTIC,Direct Entry,17,16
+
+Fall 2016,School C,HIQ,DOMESTIC,Transfer,6,5
+
+Fall 2016,School C,HIQ,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2016,School C,LBR,DOMESTIC,Direct Entry,22,18
+
+Fall 2016,School C,LBR,DOMESTIC,Transfer,13,11
+
+Fall 2016,School C,LBR,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2016,School C,NOS,DOMESTIC,Direct Entry,27,21
+
+Fall 2016,School C,NOS,DOMESTIC,Transfer,14,11
+
+Fall 2016,School C,NOS,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2016,School C,NOS,INTERNATIONAL,Transfer,1,0
+
+Fall 2016,School C,UVZ,DOMESTIC,Direct Entry,30,24
+
+Fall 2016,School C,UVZ,DOMESTIC,Transfer,17,14
+
+Fall 2016,School C,UVZ,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2016,School C,YXQ,DOMESTIC,Direct Entry,58,48
+
+Fall 2016,School C,YXQ,DOMESTIC,Transfer,22,19
+
+Fall 2016,School C,YXQ,INTERNATIONAL,Direct Entry,4,2
+
+Fall 2016,School D,CMX,DOMESTIC,Direct Entry,20,19
+
+Fall 2016,School D,CMX,DOMESTIC,Foundation,7,7
+
+Fall 2016,School D,CMX,DOMESTIC,Transfer,2,1
+
+Fall 2016,School D,HPA,DOMESTIC,Direct Entry,34,34
+
+Fall 2016,School D,HPA,DOMESTIC,Transfer,10,9
+
+Fall 2016,School D,IAU,DOMESTIC,Direct Entry,12,10
+
+Fall 2016,School D,IAU,DOMESTIC,Transfer,7,6
+
+Fall 2016,School D,JRA,DOMESTIC,Direct Entry,14,6
+
+Fall 2016,School D,JVH,DOMESTIC,Direct Entry,64,44
+
+Fall 2016,School D,JVH,DOMESTIC,Foundation,19,12
+
+Fall 2016,School D,JVH,DOMESTIC,Transfer,5,3
+
+Fall 2016,School D,JVH,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2016,School D,KUY,DOMESTIC,Direct Entry,121,87
+
+Fall 2016,School D,KUY,DOMESTIC,Transfer,42,30
+
+Fall 2016,School D,KUY,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2016,School D,LBW,DOMESTIC,Direct Entry,21,20
+
+Fall 2016,School D,LBW,DOMESTIC,Transfer,9,8
+
+Fall 2016,School D,LBW,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2016,School D,LBW,INTERNATIONAL,Transfer,1,0
+
+Fall 2016,School D,MFQ,DOMESTIC,Direct Entry,11,9
+
+Fall 2016,School D,MFQ,DOMESTIC,Transfer,6,5
+
+Fall 2016,School D,MFQ,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2016,School D,RFI,DOMESTIC,Direct Entry,17,17
+
+Fall 2016,School D,RFI,DOMESTIC,Transfer,7,6
+
+Fall 2016,School D,RFI,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2016,School D,RFI,INTERNATIONAL,Transfer,1,0
+
+Fall 2016,School D,RNV,DOMESTIC,Direct Entry,13,12
+
+Fall 2016,School D,RNV,DOMESTIC,Transfer,7,6
+
+Fall 2016,School D,THM,DOMESTIC,Direct Entry,28,26
+
+Fall 2016,School D,THM,DOMESTIC,Transfer,9,8
+
+Fall 2016,School D,UKS,DOMESTIC,Direct Entry,14,12
+
+Fall 2016,School D,XLL,DOMESTIC,Direct Entry,26,24
+
+Fall 2016,School D,XLL,DOMESTIC,Foundation,8,8
+
+Fall 2016,School D,XLL,DOMESTIC,Transfer,1,0
+
+Fall 2016,School D,ZCU,DOMESTIC,Direct Entry,14,13
+
+Fall 2016,School D,ZCU,DOMESTIC,Transfer,6,5
+
+Fall 2016,School D,ZCU,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2016,School E,EDB,DOMESTIC,Direct Entry,14,13
+
+Fall 2016,School E,EDB,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2016,School E,FCT,DOMESTIC,Direct Entry,12,12
+
+Fall 2016,School E,FCT,DOMESTIC,Transfer,8,7
+
+Fall 2016,School E,FCT,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2016,School E,LOC,DOMESTIC,Direct Entry,12,7
+
+Fall 2016,School E,LOC,DOMESTIC,Foundation,6,4
+
+Fall 2016,School E,LOC,DOMESTIC,Transfer,1,0
+
+Fall 2016,School E,LOC,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2016,School E,NGF,DOMESTIC,Direct Entry,51,42
+
+Fall 2016,School E,NGF,DOMESTIC,Foundation,12,11
+
+Fall 2016,School E,NGF,DOMESTIC,Transfer,3,2
+
+Fall 2016,School E,NGF,INTERNATIONAL,Direct Entry,7,7
+
+Fall 2016,School E,PEW,DOMESTIC,Direct Entry,49,41
+
+Fall 2016,School E,PEW,DOMESTIC,Transfer,28,24
+
+Fall 2016,School E,PEW,INTERNATIONAL,Direct Entry,5,5
+
+Fall 2016,School E,UQB,DOMESTIC,Direct Entry,12,10
+
+Fall 2016,School E,UQB,DOMESTIC,Transfer,8,7
+
+Fall 2016,School E,UQB,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2016,School F,EGJ,DOMESTIC,Direct Entry,23,22
+
+Fall 2016,School F,EGJ,DOMESTIC,Foundation,8,8
+
+Fall 2016,School F,EGJ,DOMESTIC,Transfer,3,2
+
+Fall 2016,School F,KAU,DOMESTIC,Direct Entry,18,15
+
+Fall 2016,School F,KAU,DOMESTIC,Transfer,9,8
+
+Fall 2016,School F,KAU,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2016,School F,KOK,DOMESTIC,Direct Entry,11,8
+
+Fall 2016,School F,KOK,DOMESTIC,Transfer,8,7
+
+Fall 2016,School F,KOK,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2016,School F,LNT,DOMESTIC,Direct Entry,17,12
+
+Fall 2016,School F,LNT,DOMESTIC,Transfer,8,6
+
+Fall 2016,School F,PFB,DOMESTIC,Direct Entry,141,122
+
+Fall 2016,School F,PFB,DOMESTIC,Transfer,89,76
+
+Fall 2016,School F,PFB,INTERNATIONAL,Direct Entry,16,16
+
+Fall 2016,School F,PFB,INTERNATIONAL,Foundation,5,5
+
+Fall 2016,School F,PFB,INTERNATIONAL,Transfer,1,0
+
+Fall 2016,School F,RZP,DOMESTIC,Direct Entry,21,14
+
+Fall 2016,School F,RZP,DOMESTIC,Transfer,14,10
+
+Fall 2016,School F,RZP,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2016,School F,SYW,DOMESTIC,Direct Entry,33,22
+
+Fall 2016,School F,SYW,DOMESTIC,Transfer,18,12
+
+Fall 2016,School F,SYW,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2016,School F,SYW,INTERNATIONAL,Transfer,2,1
+
+Fall 2016,School F,ZSW,DOMESTIC,Direct Entry,19,17
+
+Fall 2016,School F,ZSW,DOMESTIC,Transfer,6,5
+
+Fall 2016,School F,ZSW,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2016,School G,IWU,DOMESTIC,Direct Entry,12,9
+
+Fall 2016,School G,IWU,DOMESTIC,Transfer,9,8
+
+Fall 2016,School G,IWU,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2016,School G,IWU,INTERNATIONAL,Transfer,1,0
+
+Fall 2017,School A,CTD,DOMESTIC,Direct Entry,150,124
+
+Fall 2017,School A,CTD,DOMESTIC,Foundation,38,29
+
+Fall 2017,School A,CTD,DOMESTIC,Transfer,15,10
+
+Fall 2017,School A,CTD,INTERNATIONAL,Direct Entry,7,6
+
+Fall 2017,School A,DIB,DOMESTIC,Direct Entry,21,12
+
+Fall 2017,School A,DIB,DOMESTIC,Transfer,11,5
+
+Fall 2017,School A,DIB,INTERNATIONAL,Direct Entry,9,8
+
+Fall 2017,School A,HBP,DOMESTIC,Direct Entry,366,280
+
+Fall 2017,School A,HBP,DOMESTIC,Transfer,140,105
+
+Fall 2017,School A,HBP,INTERNATIONAL,Direct Entry,73,62
+
+Fall 2017,School A,HBP,INTERNATIONAL,Transfer,31,24
+
+Fall 2017,School A,YDD,DOMESTIC,Direct Entry,19,13
+
+Fall 2017,School A,YDD,DOMESTIC,Transfer,6,4
+
+Fall 2017,School A,YDD,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2017,School A,YDD,INTERNATIONAL,Transfer,2,1
+
+Fall 2017,School A,ZVS,DOMESTIC,Direct Entry,7,5
+
+Fall 2017,School A,ZVS,DOMESTIC,Transfer,3,2
+
+Fall 2017,School A,ZVS,INTERNATIONAL,Direct Entry,2,1
+
+Fall 2017,School B,AEX,DOMESTIC,Direct Entry,18,17
+
+Fall 2017,School B,AEX,DOMESTIC,Transfer,6,5
+
+Fall 2017,School B,AEX,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2017,School B,CCH,DOMESTIC,Direct Entry,6,1
+
+Fall 2017,School B,DLF,DOMESTIC,Direct Entry,51,47
+
+Fall 2017,School B,DLF,DOMESTIC,Foundation,18,17
+
+Fall 2017,School B,DLF,DOMESTIC,Transfer,4,2
+
+Fall 2017,School B,DLF,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2017,School B,ENR,DOMESTIC,Direct Entry,14,13
+
+Fall 2017,School B,ENR,DOMESTIC,Transfer,10,9
+
+Fall 2017,School B,ENR,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2017,School B,FJC,DOMESTIC,Direct Entry,20,18
+
+Fall 2017,School B,FJC,DOMESTIC,Transfer,7,5
+
+Fall 2017,School B,FJC,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2017,School B,GIZ,DOMESTIC,Direct Entry,33,25
+
+Fall 2017,School B,GIZ,DOMESTIC,Transfer,9,6
+
+Fall 2017,School B,GIZ,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2017,School B,JQP,DOMESTIC,Direct Entry,68,60
+
+Fall 2017,School B,JQP,DOMESTIC,Transfer,22,18
+
+Fall 2017,School B,JQP,INTERNATIONAL,Direct Entry,6,5
+
+Fall 2017,School B,NSU,DOMESTIC,Direct Entry,9,7
+
+Fall 2017,School B,UQU,DOMESTIC,Direct Entry,21,13
+
+Fall 2017,School B,UQU,DOMESTIC,Transfer,7,3
+
+Fall 2017,School B,UQU,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2017,School B,XEM,DOMESTIC,Direct Entry,54,46
+
+Fall 2017,School B,XEM,DOMESTIC,Transfer,18,13
+
+Fall 2017,School B,XEM,INTERNATIONAL,Direct Entry,5,4
+
+Fall 2017,School C,AFX,DOMESTIC,Direct Entry,36,30
+
+Fall 2017,School C,AFX,DOMESTIC,Transfer,10,7
+
+Fall 2017,School C,AFX,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2017,School C,AFX,INTERNATIONAL,Transfer,3,2
+
+Fall 2017,School C,CQK,DOMESTIC,Direct Entry,27,24
+
+Fall 2017,School C,CQK,DOMESTIC,Transfer,14,12
+
+Fall 2017,School C,CQK,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2017,School C,CQK,INTERNATIONAL,Transfer,2,1
+
+Fall 2017,School C,FOR,DOMESTIC,Direct Entry,28,24
+
+Fall 2017,School C,FOR,DOMESTIC,Transfer,15,12
+
+Fall 2017,School C,FOR,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2017,School C,FOR,INTERNATIONAL,Transfer,1,0
+
+Fall 2017,School C,HIQ,DOMESTIC,Direct Entry,16,14
+
+Fall 2017,School C,HIQ,DOMESTIC,Foundation,4,4
+
+Fall 2017,School C,HIQ,DOMESTIC,Transfer,1,0
+
+Fall 2017,School C,HIQ,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2017,School C,LBR,DOMESTIC,Direct Entry,15,13
+
+Fall 2017,School C,LBR,DOMESTIC,Transfer,9,7
+
+Fall 2017,School C,LBR,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2017,School C,NOS,DOMESTIC,Direct Entry,17,15
+
+Fall 2017,School C,NOS,DOMESTIC,Transfer,7,5
+
+Fall 2017,School C,NOS,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2017,School C,UVZ,DOMESTIC,Direct Entry,28,24
+
+Fall 2017,School C,UVZ,DOMESTIC,Transfer,15,12
+
+Fall 2017,School C,UVZ,INTERNATIONAL,Direct Entry,3,1
+
+Fall 2017,School C,YXQ,DOMESTIC,Direct Entry,31,28
+
+Fall 2017,School C,YXQ,DOMESTIC,Foundation,16,14
+
+Fall 2017,School C,YXQ,DOMESTIC,Transfer,4,2
+
+Fall 2017,School C,YXQ,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2017,School C,YXQ,INTERNATIONAL,Transfer,1,0
+
+Fall 2017,School D,CMX,DOMESTIC,Direct Entry,18,17
+
+Fall 2017,School D,CMX,DOMESTIC,Transfer,8,7
+
+Fall 2017,School D,HPA,DOMESTIC,Direct Entry,28,24
+
+Fall 2017,School D,HPA,DOMESTIC,Transfer,11,8
+
+Fall 2017,School D,IAU,DOMESTIC,Direct Entry,11,10
+
+Fall 2017,School D,IAU,DOMESTIC,Transfer,5,4
+
+Fall 2017,School D,JRA,DOMESTIC,Direct Entry,21,10
+
+Fall 2017,School D,JRA,DOMESTIC,Transfer,8,4
+
+Fall 2017,School D,JVH,DOMESTIC,Direct Entry,45,32
+
+Fall 2017,School D,JVH,DOMESTIC,Transfer,31,21
+
+Fall 2017,School D,JVH,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2017,School D,JVH,INTERNATIONAL,Transfer,3,2
+
+Fall 2017,School D,KUY,DOMESTIC,Direct Entry,139,102
+
+Fall 2017,School D,KUY,DOMESTIC,Transfer,40,28
+
+Fall 2017,School D,LBW,DOMESTIC,Direct Entry,22,20
+
+Fall 2017,School D,LBW,DOMESTIC,Transfer,7,5
+
+Fall 2017,School D,LBW,INTERNATIONAL,Direct Entry,2,1
+
+Fall 2017,School D,MFQ,DOMESTIC,Direct Entry,11,9
+
+Fall 2017,School D,MFQ,DOMESTIC,Transfer,6,5
+
+Fall 2017,School D,MFQ,INTERNATIONAL,Direct Entry,2,1
+
+Fall 2017,School D,RFI,DOMESTIC,Direct Entry,11,9
+
+Fall 2017,School D,RFI,DOMESTIC,Transfer,7,6
+
+Fall 2017,School D,RFI,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2017,School D,RNV,DOMESTIC,Direct Entry,13,11
+
+Fall 2017,School D,RNV,DOMESTIC,Transfer,5,4
+
+Fall 2017,School D,THM,DOMESTIC,Direct Entry,27,24
+
+Fall 2017,School D,THM,DOMESTIC,Transfer,10,9
+
+Fall 2017,School D,UKS,DOMESTIC,Direct Entry,11,11
+
+Fall 2017,School D,UKS,DOMESTIC,Transfer,5,4
+
+Fall 2017,School D,XLL,DOMESTIC,Direct Entry,23,23
+
+Fall 2017,School D,XLL,DOMESTIC,Transfer,7,6
+
+Fall 2017,School D,ZCU,DOMESTIC,Direct Entry,11,11
+
+Fall 2017,School D,ZCU,DOMESTIC,Foundation,4,4
+
+Fall 2017,School D,ZCU,DOMESTIC,Transfer,1,0
+
+Fall 2017,School D,ZCU,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2017,School E,EDB,DOMESTIC,Direct Entry,9,8
+
+Fall 2017,School E,EDB,DOMESTIC,Foundation,6,6
+
+Fall 2017,School E,EDB,DOMESTIC,Transfer,1,0
+
+Fall 2017,School E,FCT,DOMESTIC,Direct Entry,11,10
+
+Fall 2017,School E,FCT,DOMESTIC,Transfer,4,3
+
+Fall 2017,School E,FCT,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2017,School E,LOC,DOMESTIC,Direct Entry,15,12
+
+Fall 2017,School E,LOC,DOMESTIC,Transfer,7,5
+
+Fall 2017,School E,LOC,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2017,School E,NGF,DOMESTIC,Direct Entry,42,36
+
+Fall 2017,School E,NGF,DOMESTIC,Foundation,17,15
+
+Fall 2017,School E,NGF,DOMESTIC,Transfer,3,1
+
+Fall 2017,School E,NGF,INTERNATIONAL,Direct Entry,5,4
+
+Fall 2017,School E,PEW,DOMESTIC,Direct Entry,38,35
+
+Fall 2017,School E,PEW,DOMESTIC,Foundation,19,18
+
+Fall 2017,School E,PEW,DOMESTIC,Transfer,5,3
+
+Fall 2017,School E,PEW,INTERNATIONAL,Direct Entry,6,6
+
+Fall 2017,School E,UQB,DOMESTIC,Direct Entry,14,11
+
+Fall 2017,School E,UQB,DOMESTIC,Foundation,6,6
+
+Fall 2017,School E,UQB,DOMESTIC,Transfer,1,0
+
+Fall 2017,School F,EGJ,DOMESTIC,Direct Entry,23,21
+
+Fall 2017,School F,EGJ,DOMESTIC,Transfer,9,8
+
+Fall 2017,School F,KAU,DOMESTIC,Direct Entry,10,8
+
+Fall 2017,School F,KAU,DOMESTIC,Transfer,7,6
+
+Fall 2017,School F,KAU,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2017,School F,KOK,DOMESTIC,Direct Entry,14,12
+
+Fall 2017,School F,KOK,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2017,School F,LNT,DOMESTIC,Direct Entry,13,9
+
+Fall 2017,School F,LNT,DOMESTIC,Transfer,9,6
+
+Fall 2017,School F,PFB,DOMESTIC,Direct Entry,128,105
+
+Fall 2017,School F,PFB,DOMESTIC,Transfer,63,48
+
+Fall 2017,School F,PFB,INTERNATIONAL,Direct Entry,16,15
+
+Fall 2017,School F,PFB,INTERNATIONAL,Transfer,5,4
+
+Fall 2017,School F,RZP,DOMESTIC,Direct Entry,29,24
+
+Fall 2017,School F,RZP,DOMESTIC,Transfer,11,8
+
+Fall 2017,School F,RZP,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2017,School F,SYW,DOMESTIC,Direct Entry,19,14
+
+Fall 2017,School F,SYW,DOMESTIC,Transfer,9,6
+
+Fall 2017,School F,SYW,INTERNATIONAL,Direct Entry,5,5
+
+Fall 2017,School F,ZSW,DOMESTIC,Direct Entry,17,15
+
+Fall 2017,School F,ZSW,DOMESTIC,Transfer,6,5
+
+Fall 2017,School F,ZSW,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2017,School G,IWU,DOMESTIC,Direct Entry,12,11
+
+Fall 2017,School G,IWU,DOMESTIC,Transfer,6,5
+
+Fall 2017,School G,IWU,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2018,School A,CTD,DOMESTIC,Direct Entry,152,121
+
+Fall 2018,School A,CTD,DOMESTIC,Foundation,39,32
+
+Fall 2018,School A,CTD,DOMESTIC,Transfer,6,4
+
+Fall 2018,School A,CTD,INTERNATIONAL,Direct Entry,15,11
+
+Fall 2018,School A,CTD,INTERNATIONAL,Transfer,4,3
+
+Fall 2018,School A,DIB,DOMESTIC,Direct Entry,11,8
+
+Fall 2018,School A,DIB,DOMESTIC,Transfer,5,4
+
+Fall 2018,School A,DIB,INTERNATIONAL,Direct Entry,12,10
+
+Fall 2018,School A,DIB,INTERNATIONAL,Transfer,6,5
+
+Fall 2018,School A,HBP,DOMESTIC,Direct Entry,368,300
+
+Fall 2018,School A,HBP,DOMESTIC,Foundation,81,56
+
+Fall 2018,School A,HBP,DOMESTIC,Transfer,18,13
+
+Fall 2018,School A,HBP,INTERNATIONAL,Direct Entry,79,71
+
+Fall 2018,School A,HBP,INTERNATIONAL,Transfer,22,18
+
+Fall 2018,School A,XJQ,DOMESTIC,Direct Entry,16,11
+
+Fall 2018,School A,XJQ,DOMESTIC,Transfer,6,5
+
+Fall 2018,School A,XJQ,INTERNATIONAL,Direct Entry,2,1
+
+Fall 2018,School A,YDD,DOMESTIC,Direct Entry,12,10
+
+Fall 2018,School A,YDD,DOMESTIC,Transfer,4,3
+
+Fall 2018,School A,YDD,INTERNATIONAL,Direct Entry,12,11
+
+Fall 2018,School A,ZVS,DOMESTIC,Direct Entry,4,3
+
+Fall 2018,School A,ZVS,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2018,School B,AEX,DOMESTIC,Direct Entry,14,12
+
+Fall 2018,School B,AEX,DOMESTIC,Transfer,8,7
+
+Fall 2018,School B,AEX,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2018,School B,CCH,DOMESTIC,Direct Entry,11,4
+
+Fall 2018,School B,DLF,DOMESTIC,Direct Entry,44,40
+
+Fall 2018,School B,DLF,DOMESTIC,Foundation,16,15
+
+Fall 2018,School B,DLF,DOMESTIC,Transfer,6,5
+
+Fall 2018,School B,DLF,INTERNATIONAL,Direct Entry,3,1
+
+Fall 2018,School B,ENR,DOMESTIC,Direct Entry,16,16
+
+Fall 2018,School B,ENR,DOMESTIC,Transfer,7,6
+
+Fall 2018,School B,ENR,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2018,School B,ENR,INTERNATIONAL,Transfer,2,1
+
+Fall 2018,School B,FJC,DOMESTIC,Direct Entry,14,12
+
+Fall 2018,School B,FJC,DOMESTIC,Transfer,8,7
+
+Fall 2018,School B,FJC,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2018,School B,GIZ,DOMESTIC,Direct Entry,17,12
+
+Fall 2018,School B,GIZ,DOMESTIC,Transfer,10,8
+
+Fall 2018,School B,GIZ,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2018,School B,GIZ,INTERNATIONAL,Transfer,2,1
+
+Fall 2018,School B,JQP,DOMESTIC,Direct Entry,68,62
+
+Fall 2018,School B,JQP,DOMESTIC,Transfer,25,22
+
+Fall 2018,School B,JQP,INTERNATIONAL,Direct Entry,7,7
+
+Fall 2018,School B,NSU,DOMESTIC,Direct Entry,1,0
+
+Fall 2018,School B,NSU,DOMESTIC,Transfer,1,0
+
+Fall 2018,School B,UQU,DOMESTIC,Direct Entry,14,10
+
+Fall 2018,School B,UQU,DOMESTIC,Transfer,7,5
+
+Fall 2018,School B,UQU,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2018,School B,UQU,INTERNATIONAL,Transfer,2,1
+
+Fall 2018,School B,XEM,DOMESTIC,Direct Entry,48,42
+
+Fall 2018,School B,XEM,DOMESTIC,Foundation,15,14
+
+Fall 2018,School B,XEM,DOMESTIC,Transfer,3,2
+
+Fall 2018,School B,XEM,INTERNATIONAL,Direct Entry,5,3
+
+Fall 2018,School C,AFX,DOMESTIC,Direct Entry,28,25
+
+Fall 2018,School C,AFX,DOMESTIC,Transfer,19,16
+
+Fall 2018,School C,AFX,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2018,School C,CQK,DOMESTIC,Direct Entry,34,31
+
+Fall 2018,School C,CQK,DOMESTIC,Transfer,11,10
+
+Fall 2018,School C,CQK,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2018,School C,CQK,INTERNATIONAL,Transfer,2,1
+
+Fall 2018,School C,FOR,DOMESTIC,Direct Entry,24,21
+
+Fall 2018,School C,FOR,DOMESTIC,Transfer,11,10
+
+Fall 2018,School C,FOR,INTERNATIONAL,Direct Entry,11,10
+
+Fall 2018,School C,HIQ,DOMESTIC,Direct Entry,12,10
+
+Fall 2018,School C,HIQ,DOMESTIC,Transfer,6,5
+
+Fall 2018,School C,HIQ,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2018,School C,LBR,DOMESTIC,Direct Entry,14,8
+
+Fall 2018,School C,LBR,DOMESTIC,Transfer,6,4
+
+Fall 2018,School C,NOS,DOMESTIC,Direct Entry,16,14
+
+Fall 2018,School C,NOS,DOMESTIC,Transfer,7,6
+
+Fall 2018,School C,NOS,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2018,School C,UVZ,DOMESTIC,Direct Entry,32,29
+
+Fall 2018,School C,UVZ,DOMESTIC,Transfer,14,13
+
+Fall 2018,School C,YXQ,DOMESTIC,Direct Entry,32,32
+
+Fall 2018,School C,YXQ,DOMESTIC,Transfer,11,10
+
+Fall 2018,School C,YXQ,INTERNATIONAL,Direct Entry,6,4
+
+Fall 2018,School C,YXQ,INTERNATIONAL,Transfer,3,2
+
+Fall 2018,School D,CMX,DOMESTIC,Direct Entry,17,16
+
+Fall 2018,School D,CMX,DOMESTIC,Transfer,5,4
+
+Fall 2018,School D,HPA,DOMESTIC,Direct Entry,23,21
+
+Fall 2018,School D,HPA,DOMESTIC,Transfer,8,7
+
+Fall 2018,School D,IAU,DOMESTIC,Direct Entry,11,9
+
+Fall 2018,School D,IAU,DOMESTIC,Transfer,6,5
+
+Fall 2018,School D,JRA,DOMESTIC,Direct Entry,31,24
+
+Fall 2018,School D,JRA,DOMESTIC,Foundation,8,7
+
+Fall 2018,School D,JRA,DOMESTIC,Transfer,1,0
+
+Fall 2018,School D,JVH,DOMESTIC,Direct Entry,37,31
+
+Fall 2018,School D,JVH,DOMESTIC,Transfer,25,20
+
+Fall 2018,School D,JVH,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2018,School D,KUY,DOMESTIC,Direct Entry,83,62
+
+Fall 2018,School D,KUY,DOMESTIC,Foundation,38,28
+
+Fall 2018,School D,KUY,DOMESTIC,Transfer,11,7
+
+Fall 2018,School D,KUY,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2018,School D,LBW,DOMESTIC,Direct Entry,19,18
+
+Fall 2018,School D,LBW,DOMESTIC,Transfer,6,5
+
+Fall 2018,School D,LBW,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2018,School D,MFQ,DOMESTIC,Direct Entry,11,10
+
+Fall 2018,School D,MFQ,DOMESTIC,Transfer,6,5
+
+Fall 2018,School D,MFQ,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2018,School D,RFI,DOMESTIC,Direct Entry,14,13
+
+Fall 2018,School D,RFI,DOMESTIC,Transfer,8,7
+
+Fall 2018,School D,RFI,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2018,School D,RNV,DOMESTIC,Direct Entry,11,11
+
+Fall 2018,School D,RNV,DOMESTIC,Transfer,7,6
+
+Fall 2018,School D,THM,DOMESTIC,Direct Entry,15,14
+
+Fall 2018,School D,THM,DOMESTIC,Transfer,9,8
+
+Fall 2018,School D,UKS,DOMESTIC,Direct Entry,9,9
+
+Fall 2018,School D,XLL,DOMESTIC,Direct Entry,20,20
+
+Fall 2018,School D,XLL,DOMESTIC,Transfer,7,6
+
+Fall 2018,School D,ZCU,DOMESTIC,Direct Entry,11,10
+
+Fall 2018,School D,ZCU,DOMESTIC,Foundation,5,5
+
+Fall 2018,School D,ZCU,DOMESTIC,Transfer,1,0
+
+Fall 2018,School D,ZCU,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2018,School E,EDB,DOMESTIC,Direct Entry,11,10
+
+Fall 2018,School E,EDB,DOMESTIC,Transfer,6,5
+
+Fall 2018,School E,FCT,DOMESTIC,Direct Entry,11,11
+
+Fall 2018,School E,FCT,DOMESTIC,Transfer,7,6
+
+Fall 2018,School E,FCT,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2018,School E,FCT,INTERNATIONAL,Transfer,1,0
+
+Fall 2018,School E,LOC,DOMESTIC,Direct Entry,13,10
+
+Fall 2018,School E,LOC,DOMESTIC,Transfer,8,7
+
+Fall 2018,School E,LOC,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2018,School E,LOC,INTERNATIONAL,Transfer,1,0
+
+Fall 2018,School E,NGF,DOMESTIC,Direct Entry,48,41
+
+Fall 2018,School E,NGF,DOMESTIC,Transfer,13,10
+
+Fall 2018,School E,NGF,INTERNATIONAL,Direct Entry,4,3
+
+Fall 2018,School E,NGF,INTERNATIONAL,Transfer,3,2
+
+Fall 2018,School E,PEW,DOMESTIC,Direct Entry,35,29
+
+Fall 2018,School E,PEW,DOMESTIC,Transfer,13,11
+
+Fall 2018,School E,PEW,INTERNATIONAL,Direct Entry,12,11
+
+Fall 2018,School E,UQB,DOMESTIC,Direct Entry,18,16
+
+Fall 2018,School E,UQB,DOMESTIC,Transfer,6,5
+
+Fall 2018,School E,UQB,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2018,School F,EGJ,DOMESTIC,Direct Entry,19,15
+
+Fall 2018,School F,EGJ,DOMESTIC,Transfer,12,10
+
+Fall 2018,School F,EGJ,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2018,School F,KAU,DOMESTIC,Direct Entry,10,6
+
+Fall 2018,School F,KAU,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2018,School F,KOK,DOMESTIC,Direct Entry,11,8
+
+Fall 2018,School F,KOK,DOMESTIC,Transfer,4,3
+
+Fall 2018,School F,KOK,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2018,School F,LNT,DOMESTIC,Direct Entry,15,11
+
+Fall 2018,School F,LNT,DOMESTIC,Transfer,8,6
+
+Fall 2018,School F,PFB,DOMESTIC,Direct Entry,147,127
+
+Fall 2018,School F,PFB,DOMESTIC,Transfer,92,80
+
+Fall 2018,School F,PFB,INTERNATIONAL,Direct Entry,10,7
+
+Fall 2018,School F,PFB,INTERNATIONAL,Transfer,7,6
+
+Fall 2018,School F,RZP,DOMESTIC,Direct Entry,38,33
+
+Fall 2018,School F,RZP,DOMESTIC,Foundation,12,11
+
+Fall 2018,School F,RZP,DOMESTIC,Transfer,2,1
+
+Fall 2018,School F,RZP,INTERNATIONAL,Direct Entry,10,10
+
+Fall 2018,School F,SYW,DOMESTIC,Direct Entry,25,22
+
+Fall 2018,School F,SYW,DOMESTIC,Foundation,7,7
+
+Fall 2018,School F,SYW,DOMESTIC,Transfer,2,1
+
+Fall 2018,School F,SYW,INTERNATIONAL,Direct Entry,5,3
+
+Fall 2018,School F,ZSW,DOMESTIC,Direct Entry,16,11
+
+Fall 2018,School F,ZSW,DOMESTIC,Transfer,9,7
+
+Fall 2018,School F,ZSW,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2018,School G,IWU,DOMESTIC,Direct Entry,12,8
+
+Fall 2018,School G,IWU,DOMESTIC,Transfer,6,5
+
+Fall 2018,School G,IWU,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2019,School A,CTD,DOMESTIC,Direct Entry,108,87
+
+Fall 2019,School A,CTD,DOMESTIC,Foundation,41,34
+
+Fall 2019,School A,CTD,DOMESTIC,Transfer,14,9
+
+Fall 2019,School A,CTD,INTERNATIONAL,Direct Entry,9,8
+
+Fall 2019,School A,DIB,DOMESTIC,Direct Entry,13,11
+
+Fall 2019,School A,DIB,DOMESTIC,Transfer,10,8
+
+Fall 2019,School A,DIB,INTERNATIONAL,Direct Entry,14,14
+
+Fall 2019,School A,DIB,INTERNATIONAL,Transfer,6,5
+
+Fall 2019,School A,HBP,DOMESTIC,Direct Entry,253,184
+
+Fall 2019,School A,HBP,DOMESTIC,Foundation,112,83
+
+Fall 2019,School A,HBP,DOMESTIC,Transfer,38,22
+
+Fall 2019,School A,HBP,INTERNATIONAL,Direct Entry,126,117
+
+Fall 2019,School A,HBP,INTERNATIONAL,Foundation,37,33
+
+Fall 2019,School A,HBP,INTERNATIONAL,Transfer,11,8
+
+Fall 2019,School A,XJQ,DOMESTIC,Direct Entry,17,11
+
+Fall 2019,School A,XJQ,DOMESTIC,Transfer,6,3
+
+Fall 2019,School A,XJQ,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2019,School A,YDD,DOMESTIC,Direct Entry,13,11
+
+Fall 2019,School A,YDD,DOMESTIC,Transfer,7,5
+
+Fall 2019,School A,YDD,INTERNATIONAL,Direct Entry,36,34
+
+Fall 2019,School A,YDD,INTERNATIONAL,Foundation,10,10
+
+Fall 2019,School A,YDD,INTERNATIONAL,Transfer,2,1
+
+Fall 2019,School A,ZVS,DOMESTIC,Direct Entry,1,1
+
+Fall 2019,School A,ZVS,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2019,School B,AEX,DOMESTIC,Direct Entry,13,11
+
+Fall 2019,School B,AEX,DOMESTIC,Foundation,8,8
+
+Fall 2019,School B,AEX,DOMESTIC,Transfer,1,0
+
+Fall 2019,School B,AEX,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2019,School B,CCH,DOMESTIC,Direct Entry,4,1
+
+Fall 2019,School B,CCH,DOMESTIC,Transfer,3,1
+
+Fall 2019,School B,DLF,DOMESTIC,Direct Entry,45,39
+
+Fall 2019,School B,DLF,DOMESTIC,Foundation,15,13
+
+Fall 2019,School B,DLF,DOMESTIC,Transfer,6,3
+
+Fall 2019,School B,DLF,INTERNATIONAL,Direct Entry,4,3
+
+Fall 2019,School B,ENR,DOMESTIC,Direct Entry,15,15
+
+Fall 2019,School B,ENR,DOMESTIC,Transfer,7,6
+
+Fall 2019,School B,ENR,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2019,School B,ENR,INTERNATIONAL,Transfer,2,1
+
+Fall 2019,School B,FJC,DOMESTIC,Direct Entry,11,9
+
+Fall 2019,School B,FJC,DOMESTIC,Foundation,7,7
+
+Fall 2019,School B,FJC,DOMESTIC,Transfer,1,0
+
+Fall 2019,School B,FJC,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2019,School B,FJC,INTERNATIONAL,Transfer,1,0
+
+Fall 2019,School B,GIZ,DOMESTIC,Direct Entry,21,16
+
+Fall 2019,School B,GIZ,DOMESTIC,Transfer,10,6
+
+Fall 2019,School B,GIZ,INTERNATIONAL,Direct Entry,11,10
+
+Fall 2019,School B,GIZ,INTERNATIONAL,Transfer,5,4
+
+Fall 2019,School B,JQP,DOMESTIC,Direct Entry,61,50
+
+Fall 2019,School B,JQP,DOMESTIC,Foundation,21,17
+
+Fall 2019,School B,JQP,DOMESTIC,Transfer,8,5
+
+Fall 2019,School B,JQP,INTERNATIONAL,Direct Entry,9,7
+
+Fall 2019,School B,NSU,DOMESTIC,Direct Entry,4,4
+
+Fall 2019,School B,UQU,DOMESTIC,Direct Entry,10,7
+
+Fall 2019,School B,UQU,DOMESTIC,Transfer,7,5
+
+Fall 2019,School B,UQU,INTERNATIONAL,Direct Entry,6,5
+
+Fall 2019,School B,XEM,DOMESTIC,Direct Entry,50,44
+
+Fall 2019,School B,XEM,DOMESTIC,Foundation,15,13
+
+Fall 2019,School B,XEM,DOMESTIC,Transfer,3,1
+
+Fall 2019,School B,XEM,INTERNATIONAL,Direct Entry,5,5
+
+Fall 2019,School C,AFX,DOMESTIC,Direct Entry,31,25
+
+Fall 2019,School C,AFX,DOMESTIC,Foundation,7,6
+
+Fall 2019,School C,AFX,DOMESTIC,Transfer,2,1
+
+Fall 2019,School C,AFX,INTERNATIONAL,Direct Entry,7,7
+
+Fall 2019,School C,CQK,DOMESTIC,Direct Entry,37,29
+
+Fall 2019,School C,CQK,DOMESTIC,Transfer,11,8
+
+Fall 2019,School C,CQK,INTERNATIONAL,Direct Entry,4,3
+
+Fall 2019,School C,FOR,DOMESTIC,Direct Entry,17,14
+
+Fall 2019,School C,FOR,DOMESTIC,Foundation,4,4
+
+Fall 2019,School C,FOR,DOMESTIC,Transfer,1,0
+
+Fall 2019,School C,FOR,INTERNATIONAL,Direct Entry,4,3
+
+Fall 2019,School C,FOR,INTERNATIONAL,Transfer,3,2
+
+Fall 2019,School C,HIQ,DOMESTIC,Direct Entry,13,11
+
+Fall 2019,School C,HIQ,DOMESTIC,Transfer,7,6
+
+Fall 2019,School C,HIQ,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2019,School C,LBR,DOMESTIC,Direct Entry,16,12
+
+Fall 2019,School C,LBR,DOMESTIC,Transfer,9,6
+
+Fall 2019,School C,LBR,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2019,School C,NOS,DOMESTIC,Direct Entry,19,14
+
+Fall 2019,School C,NOS,DOMESTIC,Transfer,12,8
+
+Fall 2019,School C,NOS,INTERNATIONAL,Direct Entry,9,8
+
+Fall 2019,School C,UVZ,DOMESTIC,Direct Entry,30,28
+
+Fall 2019,School C,UVZ,DOMESTIC,Transfer,13,11
+
+Fall 2019,School C,UVZ,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2019,School C,YXQ,DOMESTIC,Direct Entry,34,29
+
+Fall 2019,School C,YXQ,DOMESTIC,Foundation,18,16
+
+Fall 2019,School C,YXQ,DOMESTIC,Transfer,4,2
+
+Fall 2019,School D,CMX,DOMESTIC,Direct Entry,17,16
+
+Fall 2019,School D,CMX,DOMESTIC,Transfer,11,10
+
+Fall 2019,School D,HPA,DOMESTIC,Direct Entry,26,26
+
+Fall 2019,School D,HPA,DOMESTIC,Transfer,14,13
+
+Fall 2019,School D,IAU,DOMESTIC,Direct Entry,10,8
+
+Fall 2019,School D,IAU,DOMESTIC,Transfer,7,5
+
+Fall 2019,School D,JRA,DOMESTIC,Direct Entry,34,26
+
+Fall 2019,School D,JRA,DOMESTIC,Foundation,17,12
+
+Fall 2019,School D,JRA,DOMESTIC,Transfer,3,1
+
+Fall 2019,School D,JVH,DOMESTIC,Direct Entry,46,40
+
+Fall 2019,School D,JVH,DOMESTIC,Foundation,13,12
+
+Fall 2019,School D,JVH,DOMESTIC,Transfer,2,1
+
+Fall 2019,School D,JVH,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2019,School D,KUY,DOMESTIC,Direct Entry,87,57
+
+Fall 2019,School D,KUY,DOMESTIC,Foundation,44,29
+
+Fall 2019,School D,KUY,DOMESTIC,Transfer,10,5
+
+Fall 2019,School D,KUY,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2019,School D,LBW,DOMESTIC,Direct Entry,21,21
+
+Fall 2019,School D,LBW,DOMESTIC,Transfer,10,9
+
+Fall 2019,School D,MFQ,DOMESTIC,Direct Entry,9,8
+
+Fall 2019,School D,MFQ,DOMESTIC,Transfer,6,5
+
+Fall 2019,School D,MFQ,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2019,School D,RFI,DOMESTIC,Direct Entry,10,8
+
+Fall 2019,School D,RFI,DOMESTIC,Transfer,6,5
+
+Fall 2019,School D,RNV,DOMESTIC,Direct Entry,12,11
+
+Fall 2019,School D,RNV,DOMESTIC,Foundation,5,5
+
+Fall 2019,School D,RNV,DOMESTIC,Transfer,1,0
+
+Fall 2019,School D,THM,DOMESTIC,Direct Entry,20,19
+
+Fall 2019,School D,THM,DOMESTIC,Foundation,5,5
+
+Fall 2019,School D,THM,DOMESTIC,Transfer,1,0
+
+Fall 2019,School D,UKS,DOMESTIC,Direct Entry,11,9
+
+Fall 2019,School D,UKS,DOMESTIC,Transfer,4,3
+
+Fall 2019,School D,XLL,DOMESTIC,Direct Entry,23,21
+
+Fall 2019,School D,XLL,DOMESTIC,Transfer,9,8
+
+Fall 2019,School D,ZCU,DOMESTIC,Direct Entry,14,13
+
+Fall 2019,School E,EDB,DOMESTIC,Direct Entry,11,9
+
+Fall 2019,School E,EDB,DOMESTIC,Transfer,4,3
+
+Fall 2019,School E,EDB,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2019,School E,FCT,DOMESTIC,Direct Entry,8,8
+
+Fall 2019,School E,FCT,DOMESTIC,Transfer,4,3
+
+Fall 2019,School E,FCT,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2019,School E,LOC,DOMESTIC,Direct Entry,16,11
+
+Fall 2019,School E,LOC,DOMESTIC,Foundation,5,5
+
+Fall 2019,School E,LOC,DOMESTIC,Transfer,2,1
+
+Fall 2019,School E,LOC,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2019,School E,NGF,DOMESTIC,Direct Entry,37,31
+
+Fall 2019,School E,NGF,DOMESTIC,Foundation,14,12
+
+Fall 2019,School E,NGF,DOMESTIC,Transfer,4,2
+
+Fall 2019,School E,NGF,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2019,School E,NGF,INTERNATIONAL,Transfer,2,1
+
+Fall 2019,School E,PEW,DOMESTIC,Direct Entry,37,30
+
+Fall 2019,School E,PEW,DOMESTIC,Transfer,11,8
+
+Fall 2019,School E,PEW,INTERNATIONAL,Direct Entry,6,6
+
+Fall 2019,School E,UQB,DOMESTIC,Direct Entry,12,11
+
+Fall 2019,School E,UQB,INTERNATIONAL,Direct Entry,2,1
+
+Fall 2019,School E,UQB,INTERNATIONAL,Transfer,2,1
+
+Fall 2019,School F,EGJ,DOMESTIC,Direct Entry,22,21
+
+Fall 2019,School F,EGJ,DOMESTIC,Transfer,9,8
+
+Fall 2019,School F,EGJ,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2019,School F,KAU,DOMESTIC,Direct Entry,14,13
+
+Fall 2019,School F,KAU,INTERNATIONAL,Direct Entry,8,8
+
+Fall 2019,School F,KOK,DOMESTIC,Direct Entry,10,8
+
+Fall 2019,School F,KOK,DOMESTIC,Transfer,6,5
+
+Fall 2019,School F,KOK,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2019,School F,LNT,DOMESTIC,Direct Entry,18,14
+
+Fall 2019,School F,LNT,DOMESTIC,Foundation,4,4
+
+Fall 2019,School F,LNT,DOMESTIC,Transfer,1,0
+
+Fall 2019,School F,PFB,DOMESTIC,Direct Entry,193,158
+
+Fall 2019,School F,PFB,DOMESTIC,Foundation,65,49
+
+Fall 2019,School F,PFB,DOMESTIC,Transfer,16,10
+
+Fall 2019,School F,PFB,INTERNATIONAL,Direct Entry,24,23
+
+Fall 2019,School F,PFB,INTERNATIONAL,Transfer,12,11
+
+Fall 2019,School F,RZP,DOMESTIC,Direct Entry,40,37
+
+Fall 2019,School F,RZP,DOMESTIC,Foundation,10,9
+
+Fall 2019,School F,RZP,DOMESTIC,Transfer,2,1
+
+Fall 2019,School F,RZP,INTERNATIONAL,Direct Entry,5,4
+
+Fall 2019,School F,SYW,DOMESTIC,Direct Entry,19,14
+
+Fall 2019,School F,SYW,DOMESTIC,Transfer,6,3
+
+Fall 2019,School F,SYW,INTERNATIONAL,Direct Entry,5,3
+
+Fall 2019,School F,SYW,INTERNATIONAL,Transfer,2,1
+
+Fall 2019,School F,ZSW,DOMESTIC,Direct Entry,14,8
+
+Fall 2019,School F,ZSW,DOMESTIC,Transfer,6,3
+
+Fall 2019,School F,ZSW,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2019,School G,IWU,DOMESTIC,Direct Entry,11,4
+
+Fall 2019,School G,IWU,DOMESTIC,Transfer,7,3
+
+Fall 2019,School G,IWU,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2020,School A,CTD,DOMESTIC,Direct Entry,163,125
+
+Fall 2020,School A,CTD,DOMESTIC,Foundation,57,46
+
+Fall 2020,School A,CTD,DOMESTIC,Transfer,23,14
+
+Fall 2020,School A,CTD,INTERNATIONAL,Direct Entry,14,10
+
+Fall 2020,School A,DIB,DOMESTIC,Direct Entry,10,4
+
+Fall 2020,School A,DIB,INTERNATIONAL,Direct Entry,10,7
+
+Fall 2020,School A,DIB,INTERNATIONAL,Transfer,4,3
+
+Fall 2020,School A,HBP,DOMESTIC,Direct Entry,257,191
+
+Fall 2020,School A,HBP,DOMESTIC,Foundation,52,40
+
+Fall 2020,School A,HBP,DOMESTIC,Transfer,17,9
+
+Fall 2020,School A,HBP,INTERNATIONAL,Direct Entry,89,77
+
+Fall 2020,School A,HBP,INTERNATIONAL,Foundation,38,33
+
+Fall 2020,School A,HBP,INTERNATIONAL,Transfer,14,10
+
+Fall 2020,School A,XJQ,DOMESTIC,Direct Entry,15,12
+
+Fall 2020,School A,XJQ,DOMESTIC,Foundation,6,6
+
+Fall 2020,School A,XJQ,DOMESTIC,Transfer,1,0
+
+Fall 2020,School A,YDD,DOMESTIC,Direct Entry,18,15
+
+Fall 2020,School A,YDD,DOMESTIC,Transfer,6,4
+
+Fall 2020,School A,YDD,INTERNATIONAL,Direct Entry,18,15
+
+Fall 2020,School A,YDD,INTERNATIONAL,Transfer,10,8
+
+Fall 2020,School B,AEX,DOMESTIC,Direct Entry,13,11
+
+Fall 2020,School B,AEX,DOMESTIC,Transfer,7,6
+
+Fall 2020,School B,CCH,DOMESTIC,Direct Entry,3,1
+
+Fall 2020,School B,CCH,DOMESTIC,Transfer,2,1
+
+Fall 2020,School B,DLF,DOMESTIC,Direct Entry,52,43
+
+Fall 2020,School B,DLF,DOMESTIC,Foundation,18,16
+
+Fall 2020,School B,DLF,DOMESTIC,Transfer,3,1
+
+Fall 2020,School B,DLF,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2020,School B,DLF,INTERNATIONAL,Transfer,1,0
+
+Fall 2020,School B,ENR,DOMESTIC,Direct Entry,15,14
+
+Fall 2020,School B,ENR,DOMESTIC,Foundation,4,4
+
+Fall 2020,School B,ENR,DOMESTIC,Transfer,1,0
+
+Fall 2020,School B,ENR,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2020,School B,ENR,INTERNATIONAL,Transfer,1,0
+
+Fall 2020,School B,FJC,DOMESTIC,Direct Entry,16,12
+
+Fall 2020,School B,FJC,DOMESTIC,Transfer,6,4
+
+Fall 2020,School B,FJC,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2020,School B,GIZ,DOMESTIC,Direct Entry,24,16
+
+Fall 2020,School B,GIZ,DOMESTIC,Transfer,14,8
+
+Fall 2020,School B,GIZ,INTERNATIONAL,Direct Entry,6,5
+
+Fall 2020,School B,JQP,DOMESTIC,Direct Entry,63,53
+
+Fall 2020,School B,JQP,DOMESTIC,Foundation,13,11
+
+Fall 2020,School B,JQP,DOMESTIC,Transfer,4,2
+
+Fall 2020,School B,JQP,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2020,School B,NSU,DOMESTIC,Direct Entry,2,2
+
+Fall 2020,School B,UQU,DOMESTIC,Direct Entry,15,12
+
+Fall 2020,School B,UQU,DOMESTIC,Transfer,10,7
+
+Fall 2020,School B,XEM,DOMESTIC,Direct Entry,36,34
+
+Fall 2020,School B,XEM,DOMESTIC,Foundation,13,13
+
+Fall 2020,School B,XEM,DOMESTIC,Transfer,3,1
+
+Fall 2020,School B,XEM,INTERNATIONAL,Direct Entry,8,8
+
+Fall 2020,School C,AFX,DOMESTIC,Direct Entry,27,18
+
+Fall 2020,School C,AFX,DOMESTIC,Foundation,5,4
+
+Fall 2020,School C,AFX,DOMESTIC,Transfer,2,1
+
+Fall 2020,School C,AFX,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2020,School C,CQK,DOMESTIC,Direct Entry,28,20
+
+Fall 2020,School C,CQK,DOMESTIC,Transfer,14,9
+
+Fall 2020,School C,CQK,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2020,School C,CQK,INTERNATIONAL,Transfer,2,1
+
+Fall 2020,School C,FOR,DOMESTIC,Direct Entry,20,14
+
+Fall 2020,School C,FOR,DOMESTIC,Transfer,7,5
+
+Fall 2020,School C,FOR,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2020,School C,HIQ,DOMESTIC,Direct Entry,13,8
+
+Fall 2020,School C,HIQ,DOMESTIC,Foundation,5,4
+
+Fall 2020,School C,HIQ,DOMESTIC,Transfer,1,0
+
+Fall 2020,School C,HIQ,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2020,School C,LBR,DOMESTIC,Direct Entry,14,9
+
+Fall 2020,School C,LBR,DOMESTIC,Transfer,9,6
+
+Fall 2020,School C,LBR,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2020,School C,NOS,DOMESTIC,Direct Entry,17,12
+
+Fall 2020,School C,NOS,DOMESTIC,Transfer,9,5
+
+Fall 2020,School C,NOS,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2020,School C,UVZ,DOMESTIC,Direct Entry,33,26
+
+Fall 2020,School C,UVZ,DOMESTIC,Transfer,10,6
+
+Fall 2020,School C,UVZ,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2020,School C,YXQ,DOMESTIC,Direct Entry,31,25
+
+Fall 2020,School C,YXQ,DOMESTIC,Transfer,9,6
+
+Fall 2020,School C,YXQ,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2020,School D,CMX,DOMESTIC,Direct Entry,23,23
+
+Fall 2020,School D,CMX,DOMESTIC,Foundation,13,13
+
+Fall 2020,School D,CMX,DOMESTIC,Transfer,3,1
+
+Fall 2020,School D,HPA,DOMESTIC,Direct Entry,18,18
+
+Fall 2020,School D,HPA,DOMESTIC,Transfer,12,11
+
+Fall 2020,School D,IAU,DOMESTIC,Direct Entry,13,11
+
+Fall 2020,School D,IAU,DOMESTIC,Transfer,5,4
+
+Fall 2020,School D,JRA,DOMESTIC,Direct Entry,48,37
+
+Fall 2020,School D,JRA,DOMESTIC,Foundation,18,15
+
+Fall 2020,School D,JRA,DOMESTIC,Transfer,3,1
+
+Fall 2020,School D,JVH,DOMESTIC,Direct Entry,34,25
+
+Fall 2020,School D,JVH,DOMESTIC,Foundation,18,14
+
+Fall 2020,School D,JVH,DOMESTIC,Transfer,5,2
+
+Fall 2020,School D,KUY,DOMESTIC,Direct Entry,79,60
+
+Fall 2020,School D,KUY,DOMESTIC,Foundation,35,26
+
+Fall 2020,School D,KUY,DOMESTIC,Transfer,12,7
+
+Fall 2020,School D,LBW,DOMESTIC,Direct Entry,22,20
+
+Fall 2020,School D,LBW,DOMESTIC,Transfer,8,7
+
+Fall 2020,School D,LBW,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2020,School D,MFQ,DOMESTIC,Direct Entry,10,10
+
+Fall 2020,School D,MFQ,DOMESTIC,Transfer,5,4
+
+Fall 2020,School D,RFI,DOMESTIC,Direct Entry,24,21
+
+Fall 2020,School D,RFI,DOMESTIC,Transfer,17,14
+
+Fall 2020,School D,RFI,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2020,School D,RNV,DOMESTIC,Direct Entry,12,10
+
+Fall 2020,School D,RNV,DOMESTIC,Foundation,4,4
+
+Fall 2020,School D,RNV,DOMESTIC,Transfer,1,0
+
+Fall 2020,School D,THM,DOMESTIC,Direct Entry,24,23
+
+Fall 2020,School D,THM,DOMESTIC,Transfer,8,7
+
+Fall 2020,School D,UKS,DOMESTIC,Direct Entry,11,11
+
+Fall 2020,School D,XLL,DOMESTIC,Direct Entry,17,16
+
+Fall 2020,School D,XLL,DOMESTIC,Transfer,12,10
+
+Fall 2020,School D,XLL,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2020,School D,ZCU,DOMESTIC,Direct Entry,14,13
+
+Fall 2020,School E,EDB,DOMESTIC,Direct Entry,10,9
+
+Fall 2020,School E,FCT,DOMESTIC,Direct Entry,10,6
+
+Fall 2020,School E,FCT,DOMESTIC,Transfer,3,1
+
+Fall 2020,School E,FCT,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2020,School E,LOC,DOMESTIC,Direct Entry,12,8
+
+Fall 2020,School E,LOC,DOMESTIC,Foundation,5,4
+
+Fall 2020,School E,LOC,DOMESTIC,Transfer,1,0
+
+Fall 2020,School E,LOC,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2020,School E,NGF,DOMESTIC,Direct Entry,28,22
+
+Fall 2020,School E,NGF,DOMESTIC,Transfer,14,10
+
+Fall 2020,School E,NGF,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2020,School E,PEW,DOMESTIC,Direct Entry,23,19
+
+Fall 2020,School E,PEW,DOMESTIC,Foundation,9,8
+
+Fall 2020,School E,PEW,DOMESTIC,Transfer,2,1
+
+Fall 2020,School E,PEW,INTERNATIONAL,Direct Entry,3,1
+
+Fall 2020,School E,UQB,DOMESTIC,Direct Entry,10,5
+
+Fall 2020,School E,UQB,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2020,School F,EGJ,DOMESTIC,Direct Entry,19,12
+
+Fall 2020,School F,EGJ,DOMESTIC,Transfer,13,8
+
+Fall 2020,School F,EGJ,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2020,School F,KAU,DOMESTIC,Direct Entry,7,5
+
+Fall 2020,School F,KAU,DOMESTIC,Transfer,4,3
+
+Fall 2020,School F,KAU,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2020,School F,KOK,DOMESTIC,Direct Entry,11,9
+
+Fall 2020,School F,LNT,DOMESTIC,Direct Entry,15,9
+
+Fall 2020,School F,LNT,DOMESTIC,Transfer,5,2
+
+Fall 2020,School F,PFB,DOMESTIC,Direct Entry,151,120
+
+Fall 2020,School F,PFB,DOMESTIC,Foundation,44,36
+
+Fall 2020,School F,PFB,DOMESTIC,Transfer,8,4
+
+Fall 2020,School F,PFB,INTERNATIONAL,Direct Entry,14,11
+
+Fall 2020,School F,PFB,INTERNATIONAL,Transfer,8,6
+
+Fall 2020,School F,RZP,DOMESTIC,Direct Entry,19,17
+
+Fall 2020,School F,RZP,DOMESTIC,Transfer,11,9
+
+Fall 2020,School F,RZP,INTERNATIONAL,Direct Entry,5,4
+
+Fall 2020,School F,SYW,DOMESTIC,Direct Entry,21,18
+
+Fall 2020,School F,SYW,DOMESTIC,Transfer,8,6
+
+Fall 2020,School F,SYW,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2020,School F,ZSW,DOMESTIC,Direct Entry,14,10
+
+Fall 2020,School F,ZSW,DOMESTIC,Transfer,8,5
+
+Fall 2020,School G,IWU,DOMESTIC,Direct Entry,13,6
+
+Fall 2020,School G,IWU,DOMESTIC,Transfer,6,3
+
+Fall 2020,School G,IWU,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2021,School A,CTD,DOMESTIC,Direct Entry,197,139
+
+Fall 2021,School A,CTD,DOMESTIC,Foundation,46,32
+
+Fall 2021,School A,CTD,DOMESTIC,Transfer,10,5
+
+Fall 2021,School A,CTD,INTERNATIONAL,Direct Entry,9,9
+
+Fall 2021,School A,DIB,DOMESTIC,Direct Entry,14,7
+
+Fall 2021,School A,DIB,INTERNATIONAL,Direct Entry,11,10
+
+Fall 2021,School A,DIB,INTERNATIONAL,Transfer,5,4
+
+Fall 2021,School A,HBP,DOMESTIC,Direct Entry,241,175
+
+Fall 2021,School A,HBP,DOMESTIC,Foundation,56,36
+
+Fall 2021,School A,HBP,DOMESTIC,Transfer,17,8
+
+Fall 2021,School A,HBP,INTERNATIONAL,Direct Entry,103,90
+
+Fall 2021,School A,HBP,INTERNATIONAL,Foundation,51,42
+
+Fall 2021,School A,HBP,INTERNATIONAL,Transfer,16,10
+
+Fall 2021,School A,REJ,DOMESTIC,Direct Entry,20,16
+
+Fall 2021,School A,REJ,DOMESTIC,Foundation,10,9
+
+Fall 2021,School A,REJ,DOMESTIC,Transfer,1,0
+
+Fall 2021,School A,REJ,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2021,School A,REJ,INTERNATIONAL,Transfer,4,3
+
+Fall 2021,School A,XJQ,DOMESTIC,Direct Entry,18,15
+
+Fall 2021,School A,XJQ,DOMESTIC,Transfer,5,4
+
+Fall 2021,School A,XJQ,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2021,School A,YDD,DOMESTIC,Direct Entry,9,8
+
+Fall 2021,School A,YDD,INTERNATIONAL,Direct Entry,7,6
+
+Fall 2021,School B,AEX,DOMESTIC,Direct Entry,17,11
+
+Fall 2021,School B,AEX,DOMESTIC,Transfer,5,2
+
+Fall 2021,School B,CCH,DOMESTIC,Direct Entry,5,0
+
+Fall 2021,School B,DLF,DOMESTIC,Direct Entry,40,31
+
+Fall 2021,School B,DLF,DOMESTIC,Foundation,11,9
+
+Fall 2021,School B,DLF,DOMESTIC,Transfer,1,0
+
+Fall 2021,School B,DLF,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2021,School B,DLF,INTERNATIONAL,Transfer,3,2
+
+Fall 2021,School B,ENR,DOMESTIC,Direct Entry,16,15
+
+Fall 2021,School B,ENR,DOMESTIC,Transfer,6,5
+
+Fall 2021,School B,ENR,INTERNATIONAL,Direct Entry,6,5
+
+Fall 2021,School B,FJC,DOMESTIC,Direct Entry,15,13
+
+Fall 2021,School B,FJC,DOMESTIC,Transfer,8,6
+
+Fall 2021,School B,FJC,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2021,School B,GIZ,DOMESTIC,Direct Entry,15,11
+
+Fall 2021,School B,GIZ,DOMESTIC,Transfer,6,4
+
+Fall 2021,School B,GIZ,INTERNATIONAL,Direct Entry,4,2
+
+Fall 2021,School B,GIZ,INTERNATIONAL,Transfer,3,2
+
+Fall 2021,School B,JQP,DOMESTIC,Direct Entry,59,45
+
+Fall 2021,School B,JQP,DOMESTIC,Foundation,21,17
+
+Fall 2021,School B,JQP,DOMESTIC,Transfer,6,3
+
+Fall 2021,School B,JQP,INTERNATIONAL,Direct Entry,8,8
+
+Fall 2021,School B,QYB,DOMESTIC,Direct Entry,16,8
+
+Fall 2021,School B,QYB,DOMESTIC,Foundation,5,3
+
+Fall 2021,School B,QYB,DOMESTIC,Transfer,1,0
+
+Fall 2021,School B,QYB,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2021,School B,TWJ,DOMESTIC,Direct Entry,13,7
+
+Fall 2021,School B,TWJ,DOMESTIC,Transfer,5,2
+
+Fall 2021,School B,TWJ,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2021,School B,TWJ,INTERNATIONAL,Transfer,1,0
+
+Fall 2021,School B,UQU,DOMESTIC,Direct Entry,10,8
+
+Fall 2021,School B,UQU,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2021,School B,XEM,DOMESTIC,Direct Entry,35,28
+
+Fall 2021,School B,XEM,DOMESTIC,Foundation,12,11
+
+Fall 2021,School B,XEM,DOMESTIC,Transfer,4,2
+
+Fall 2021,School B,XEM,INTERNATIONAL,Direct Entry,8,7
+
+Fall 2021,School B,XEM,INTERNATIONAL,Transfer,6,4
+
+Fall 2021,School C,AFX,DOMESTIC,Direct Entry,29,18
+
+Fall 2021,School C,AFX,DOMESTIC,Transfer,8,4
+
+Fall 2021,School C,AFX,INTERNATIONAL,Direct Entry,7,6
+
+Fall 2021,School C,CQK,DOMESTIC,Direct Entry,25,17
+
+Fall 2021,School C,CQK,DOMESTIC,Transfer,18,10
+
+Fall 2021,School C,CQK,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2021,School C,FOR,DOMESTIC,Direct Entry,11,9
+
+Fall 2021,School C,FOR,DOMESTIC,Foundation,5,5
+
+Fall 2021,School C,FOR,DOMESTIC,Transfer,2,1
+
+Fall 2021,School C,FOR,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2021,School C,HIQ,DOMESTIC,Direct Entry,13,10
+
+Fall 2021,School C,HIQ,DOMESTIC,Foundation,4,4
+
+Fall 2021,School C,HIQ,DOMESTIC,Transfer,1,0
+
+Fall 2021,School C,HIQ,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2021,School C,LBR,DOMESTIC,Direct Entry,9,6
+
+Fall 2021,School C,LBR,DOMESTIC,Transfer,6,3
+
+Fall 2021,School C,LBR,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2021,School C,NOS,DOMESTIC,Direct Entry,11,9
+
+Fall 2021,School C,NOS,DOMESTIC,Transfer,7,5
+
+Fall 2021,School C,NOS,INTERNATIONAL,Direct Entry,11,10
+
+Fall 2021,School C,UVZ,DOMESTIC,Direct Entry,32,27
+
+Fall 2021,School C,UVZ,DOMESTIC,Transfer,11,8
+
+Fall 2021,School C,YXQ,DOMESTIC,Direct Entry,30,22
+
+Fall 2021,School C,YXQ,DOMESTIC,Transfer,10,5
+
+Fall 2021,School C,YXQ,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2021,School D,CMX,DOMESTIC,Direct Entry,18,17
+
+Fall 2021,School D,CMX,DOMESTIC,Transfer,9,6
+
+Fall 2021,School D,HPA,DOMESTIC,Direct Entry,24,24
+
+Fall 2021,School D,HPA,DOMESTIC,Transfer,9,7
+
+Fall 2021,School D,IAU,DOMESTIC,Direct Entry,9,8
+
+Fall 2021,School D,IAU,DOMESTIC,Foundation,6,6
+
+Fall 2021,School D,IAU,DOMESTIC,Transfer,1,0
+
+Fall 2021,School D,JRA,DOMESTIC,Direct Entry,47,35
+
+Fall 2021,School D,JRA,DOMESTIC,Foundation,24,17
+
+Fall 2021,School D,JRA,DOMESTIC,Transfer,4,2
+
+Fall 2021,School D,JVH,DOMESTIC,Direct Entry,39,27
+
+Fall 2021,School D,JVH,DOMESTIC,Foundation,15,10
+
+Fall 2021,School D,JVH,DOMESTIC,Transfer,2,1
+
+Fall 2021,School D,JVH,INTERNATIONAL,Direct Entry,4,3
+
+Fall 2021,School D,KUY,DOMESTIC,Direct Entry,103,76
+
+Fall 2021,School D,KUY,DOMESTIC,Foundation,48,36
+
+Fall 2021,School D,KUY,DOMESTIC,Transfer,11,5
+
+Fall 2021,School D,LBW,DOMESTIC,Direct Entry,20,19
+
+Fall 2021,School D,LBW,DOMESTIC,Foundation,7,7
+
+Fall 2021,School D,LBW,DOMESTIC,Transfer,2,1
+
+Fall 2021,School D,MFQ,DOMESTIC,Direct Entry,11,10
+
+Fall 2021,School D,MFQ,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2021,School D,MFQ,INTERNATIONAL,Transfer,1,0
+
+Fall 2021,School D,RFI,DOMESTIC,Direct Entry,18,15
+
+Fall 2021,School D,RFI,DOMESTIC,Foundation,5,5
+
+Fall 2021,School D,RFI,DOMESTIC,Transfer,1,0
+
+Fall 2021,School D,RNV,DOMESTIC,Direct Entry,7,6
+
+Fall 2021,School D,RNV,DOMESTIC,Transfer,4,3
+
+Fall 2021,School D,THM,DOMESTIC,Direct Entry,23,23
+
+Fall 2021,School D,THM,DOMESTIC,Transfer,10,8
+
+Fall 2021,School D,UKS,DOMESTIC,Direct Entry,10,8
+
+Fall 2021,School D,UKS,DOMESTIC,Foundation,4,4
+
+Fall 2021,School D,UKS,DOMESTIC,Transfer,1,0
+
+Fall 2021,School D,XLL,DOMESTIC,Direct Entry,24,21
+
+Fall 2021,School D,XLL,DOMESTIC,Transfer,8,7
+
+Fall 2021,School D,ZCU,DOMESTIC,Direct Entry,15,14
+
+Fall 2021,School D,ZCU,DOMESTIC,Foundation,3,3
+
+Fall 2021,School D,ZCU,DOMESTIC,Transfer,1,0
+
+Fall 2021,School E,EDB,DOMESTIC,Direct Entry,13,12
+
+Fall 2021,School E,EDB,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2021,School E,FCT,DOMESTIC,Direct Entry,8,3
+
+Fall 2021,School E,FCT,DOMESTIC,Transfer,3,1
+
+Fall 2021,School E,FCT,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2021,School E,LOC,DOMESTIC,Direct Entry,11,5
+
+Fall 2021,School E,LOC,DOMESTIC,Transfer,7,3
+
+Fall 2021,School E,LOC,INTERNATIONAL,Direct Entry,2,1
+
+Fall 2021,School E,NGF,DOMESTIC,Direct Entry,30,20
+
+Fall 2021,School E,NGF,DOMESTIC,Transfer,16,8
+
+Fall 2021,School E,NGF,INTERNATIONAL,Direct Entry,6,6
+
+Fall 2021,School E,NGF,INTERNATIONAL,Transfer,3,2
+
+Fall 2021,School E,PEW,DOMESTIC,Direct Entry,26,21
+
+Fall 2021,School E,PEW,DOMESTIC,Transfer,10,6
+
+Fall 2021,School E,PEW,INTERNATIONAL,Direct Entry,9,8
+
+Fall 2021,School E,SKM,DOMESTIC,Direct Entry,12,5
+
+Fall 2021,School E,SKM,DOMESTIC,Transfer,8,4
+
+Fall 2021,School E,SKM,INTERNATIONAL,Direct Entry,2,1
+
+Fall 2021,School E,UQB,DOMESTIC,Direct Entry,6,4
+
+Fall 2021,School E,UQB,DOMESTIC,Transfer,5,3
+
+Fall 2021,School E,UQB,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2021,School F,EGJ,DOMESTIC,Direct Entry,21,14
+
+Fall 2021,School F,EGJ,DOMESTIC,Foundation,10,7
+
+Fall 2021,School F,EGJ,DOMESTIC,Transfer,2,1
+
+Fall 2021,School F,KAU,DOMESTIC,Direct Entry,9,6
+
+Fall 2021,School F,KAU,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2021,School F,KAU,INTERNATIONAL,Transfer,1,0
+
+Fall 2021,School F,KOK,DOMESTIC,Direct Entry,13,12
+
+Fall 2021,School F,KOK,INTERNATIONAL,Direct Entry,4,3
+
+Fall 2021,School F,LNT,DOMESTIC,Direct Entry,16,10
+
+Fall 2021,School F,LNT,DOMESTIC,Foundation,6,5
+
+Fall 2021,School F,LNT,DOMESTIC,Transfer,2,1
+
+Fall 2021,School F,PFB,DOMESTIC,Direct Entry,115,92
+
+Fall 2021,School F,PFB,DOMESTIC,Foundation,25,19
+
+Fall 2021,School F,PFB,DOMESTIC,Transfer,9,4
+
+Fall 2021,School F,PFB,INTERNATIONAL,Direct Entry,64,58
+
+Fall 2021,School F,PFB,INTERNATIONAL,Foundation,15,14
+
+Fall 2021,School F,PFB,INTERNATIONAL,Transfer,5,3
+
+Fall 2021,School F,RZP,DOMESTIC,Direct Entry,33,24
+
+Fall 2021,School F,RZP,DOMESTIC,Transfer,13,8
+
+Fall 2021,School F,RZP,INTERNATIONAL,Direct Entry,10,8
+
+Fall 2021,School F,SYW,DOMESTIC,Direct Entry,19,12
+
+Fall 2021,School F,SYW,DOMESTIC,Transfer,8,5
+
+Fall 2021,School F,SYW,INTERNATIONAL,Direct Entry,2,1
+
+Fall 2021,School F,SYW,INTERNATIONAL,Transfer,1,0
+
+Fall 2021,School F,ZSW,DOMESTIC,Direct Entry,13,7
+
+Fall 2021,School F,ZSW,DOMESTIC,Transfer,7,4
+
+Fall 2021,School G,ICC,DOMESTIC,Direct Entry,14,12
+
+Fall 2021,School G,ICC,DOMESTIC,Transfer,8,5
+
+Fall 2021,School G,ICC,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2021,School G,IWU,DOMESTIC,Direct Entry,14,8
+
+Fall 2021,School G,IWU,DOMESTIC,Foundation,4,4
+
+Fall 2021,School G,IWU,DOMESTIC,Transfer,1,0
+
+Fall 2021,School G,IWU,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2021,School G,IWU,INTERNATIONAL,Transfer,1,0
+
+Fall 2022,School A,CTD,DOMESTIC,Direct Entry,146,111
+
+Fall 2022,School A,CTD,DOMESTIC,Foundation,44,32
+
+Fall 2022,School A,CTD,DOMESTIC,Transfer,16,9
+
+Fall 2022,School A,CTD,INTERNATIONAL,Direct Entry,8,6
+
+Fall 2022,School A,DIB,DOMESTIC,Direct Entry,8,7
+
+Fall 2022,School A,DIB,DOMESTIC,Transfer,3,2
+
+Fall 2022,School A,DIB,INTERNATIONAL,Direct Entry,17,15
+
+Fall 2022,School A,DIB,INTERNATIONAL,Transfer,7,6
+
+Fall 2022,School A,HBP,DOMESTIC,Direct Entry,163,120
+
+Fall 2022,School A,HBP,DOMESTIC,Foundation,85,61
+
+Fall 2022,School A,HBP,DOMESTIC,Transfer,14,8
+
+Fall 2022,School A,HBP,INTERNATIONAL,Direct Entry,159,150
+
+Fall 2022,School A,HBP,INTERNATIONAL,Foundation,59,55
+
+Fall 2022,School A,HBP,INTERNATIONAL,Transfer,19,15
+
+Fall 2022,School A,REJ,DOMESTIC,Direct Entry,38,26
+
+Fall 2022,School A,REJ,DOMESTIC,Foundation,11,8
+
+Fall 2022,School A,REJ,DOMESTIC,Transfer,2,1
+
+Fall 2022,School A,REJ,INTERNATIONAL,Direct Entry,9,8
+
+Fall 2022,School A,XJQ,DOMESTIC,Direct Entry,10,9
+
+Fall 2022,School A,XJQ,INTERNATIONAL,Direct Entry,10,8
+
+Fall 2022,School A,YDD,DOMESTIC,Direct Entry,11,10
+
+Fall 2022,School A,YDD,INTERNATIONAL,Direct Entry,8,5
+
+Fall 2022,School B,AEX,DOMESTIC,Direct Entry,13,9
+
+Fall 2022,School B,AEX,DOMESTIC,Transfer,7,4
+
+Fall 2022,School B,AEX,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2022,School B,CCH,DOMESTIC,Direct Entry,4,2
+
+Fall 2022,School B,DLF,DOMESTIC,Direct Entry,29,23
+
+Fall 2022,School B,DLF,DOMESTIC,Foundation,15,13
+
+Fall 2022,School B,DLF,DOMESTIC,Transfer,5,2
+
+Fall 2022,School B,DLF,INTERNATIONAL,Direct Entry,14,13
+
+Fall 2022,School B,ENR,DOMESTIC,Direct Entry,15,14
+
+Fall 2022,School B,ENR,DOMESTIC,Transfer,5,4
+
+Fall 2022,School B,ENR,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2022,School B,FJC,DOMESTIC,Direct Entry,10,9
+
+Fall 2022,School B,FJC,DOMESTIC,Foundation,6,6
+
+Fall 2022,School B,FJC,DOMESTIC,Transfer,1,0
+
+Fall 2022,School B,FJC,INTERNATIONAL,Direct Entry,2,1
+
+Fall 2022,School B,FJC,INTERNATIONAL,Transfer,2,1
+
+Fall 2022,School B,GIZ,DOMESTIC,Direct Entry,12,9
+
+Fall 2022,School B,GIZ,INTERNATIONAL,Direct Entry,10,10
+
+Fall 2022,School B,JQP,DOMESTIC,Direct Entry,63,53
+
+Fall 2022,School B,JQP,DOMESTIC,Foundation,19,16
+
+Fall 2022,School B,JQP,DOMESTIC,Transfer,5,2
+
+Fall 2022,School B,JQP,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2022,School B,QYB,DOMESTIC,Direct Entry,13,9
+
+Fall 2022,School B,QYB,DOMESTIC,Transfer,4,2
+
+Fall 2022,School B,QYB,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2022,School B,QYB,INTERNATIONAL,Transfer,1,0
+
+Fall 2022,School B,TWJ,DOMESTIC,Direct Entry,11,5
+
+Fall 2022,School B,TWJ,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2022,School B,TWJ,INTERNATIONAL,Transfer,1,0
+
+Fall 2022,School B,UQU,DOMESTIC,Direct Entry,10,7
+
+Fall 2022,School B,UQU,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2022,School B,XEM,DOMESTIC,Direct Entry,36,27
+
+Fall 2022,School B,XEM,DOMESTIC,Foundation,11,9
+
+Fall 2022,School B,XEM,DOMESTIC,Transfer,3,1
+
+Fall 2022,School B,XEM,INTERNATIONAL,Direct Entry,13,12
+
+Fall 2022,School C,AFX,DOMESTIC,Direct Entry,17,14
+
+Fall 2022,School C,AFX,DOMESTIC,Transfer,9,7
+
+Fall 2022,School C,AFX,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2022,School C,AFX,INTERNATIONAL,Transfer,2,1
+
+Fall 2022,School C,CQK,DOMESTIC,Direct Entry,25,21
+
+Fall 2022,School C,CQK,DOMESTIC,Transfer,12,10
+
+Fall 2022,School C,CQK,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2022,School C,FOR,DOMESTIC,Direct Entry,12,10
+
+Fall 2022,School C,FOR,DOMESTIC,Transfer,6,5
+
+Fall 2022,School C,FOR,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2022,School C,HIQ,DOMESTIC,Direct Entry,11,10
+
+Fall 2022,School C,HIQ,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2022,School C,LBR,DOMESTIC,Direct Entry,11,6
+
+Fall 2022,School C,LBR,INTERNATIONAL,Direct Entry,5,5
+
+Fall 2022,School C,NOS,DOMESTIC,Direct Entry,12,10
+
+Fall 2022,School C,NOS,DOMESTIC,Transfer,8,6
+
+Fall 2022,School C,NOS,INTERNATIONAL,Direct Entry,5,5
+
+Fall 2022,School C,NOS,INTERNATIONAL,Transfer,4,3
+
+Fall 2022,School C,PJN,DOMESTIC,Direct Entry,19,17
+
+Fall 2022,School C,PJN,DOMESTIC,Foundation,5,5
+
+Fall 2022,School C,PJN,DOMESTIC,Transfer,1,0
+
+Fall 2022,School C,PJN,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2022,School C,PJN,INTERNATIONAL,Transfer,1,0
+
+Fall 2022,School C,RUP,DOMESTIC,Direct Entry,13,11
+
+Fall 2022,School C,RUP,INTERNATIONAL,Direct Entry,11,11
+
+Fall 2022,School C,UVZ,DOMESTIC,Direct Entry,27,25
+
+Fall 2022,School C,UVZ,DOMESTIC,Transfer,12,10
+
+Fall 2022,School C,YDA,DOMESTIC,Direct Entry,6,5
+
+Fall 2022,School C,YDA,DOMESTIC,Transfer,5,4
+
+Fall 2022,School C,YDA,INTERNATIONAL,Direct Entry,6,6
+
+Fall 2022,School C,YXQ,DOMESTIC,Direct Entry,29,27
+
+Fall 2022,School C,YXQ,DOMESTIC,Transfer,15,13
+
+Fall 2022,School C,YXQ,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2022,School D,CMX,DOMESTIC,Direct Entry,21,20
+
+Fall 2022,School D,CMX,DOMESTIC,Transfer,6,5
+
+Fall 2022,School D,HPA,DOMESTIC,Direct Entry,26,26
+
+Fall 2022,School D,HPA,DOMESTIC,Transfer,11,10
+
+Fall 2022,School D,IAU,DOMESTIC,Direct Entry,11,10
+
+Fall 2022,School D,IAU,DOMESTIC,Transfer,6,5
+
+Fall 2022,School D,IAU,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2022,School D,JRA,DOMESTIC,Direct Entry,20,14
+
+Fall 2022,School D,JRA,DOMESTIC,Transfer,13,8
+
+Fall 2022,School D,JVH,DOMESTIC,Direct Entry,25,16
+
+Fall 2022,School D,JVH,DOMESTIC,Transfer,9,5
+
+Fall 2022,School D,JVH,INTERNATIONAL,Direct Entry,2,1
+
+Fall 2022,School D,KUY,DOMESTIC,Direct Entry,95,70
+
+Fall 2022,School D,KUY,DOMESTIC,Foundation,50,36
+
+Fall 2022,School D,KUY,DOMESTIC,Transfer,10,5
+
+Fall 2022,School D,MFQ,DOMESTIC,Direct Entry,13,11
+
+Fall 2022,School D,MFQ,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2022,School D,RFI,DOMESTIC,Direct Entry,16,15
+
+Fall 2022,School D,RFI,DOMESTIC,Transfer,6,5
+
+Fall 2022,School D,RNV,DOMESTIC,Direct Entry,7,6
+
+Fall 2022,School D,THM,DOMESTIC,Direct Entry,20,18
+
+Fall 2022,School D,THM,DOMESTIC,Transfer,8,6
+
+Fall 2022,School D,UKS,DOMESTIC,Direct Entry,7,7
+
+Fall 2022,School D,XLL,DOMESTIC,Direct Entry,25,23
+
+Fall 2022,School D,XLL,DOMESTIC,Transfer,11,10
+
+Fall 2022,School D,ZCU,DOMESTIC,Direct Entry,10,10
+
+Fall 2022,School E,EDB,DOMESTIC,Direct Entry,11,10
+
+Fall 2022,School E,EDB,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2022,School E,FCT,DOMESTIC,Direct Entry,10,9
+
+Fall 2022,School E,FCT,DOMESTIC,Transfer,7,6
+
+Fall 2022,School E,FCT,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2022,School E,FCT,INTERNATIONAL,Transfer,1,0
+
+Fall 2022,School E,LOC,DOMESTIC,Direct Entry,9,8
+
+Fall 2022,School E,LOC,DOMESTIC,Transfer,6,5
+
+Fall 2022,School E,LOC,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2022,School E,NGF,DOMESTIC,Direct Entry,28,23
+
+Fall 2022,School E,NGF,DOMESTIC,Transfer,13,11
+
+Fall 2022,School E,NGF,INTERNATIONAL,Direct Entry,9,7
+
+Fall 2022,School E,PEW,DOMESTIC,Direct Entry,14,10
+
+Fall 2022,School E,PEW,DOMESTIC,Foundation,7,7
+
+Fall 2022,School E,PEW,DOMESTIC,Transfer,1,0
+
+Fall 2022,School E,PEW,INTERNATIONAL,Direct Entry,12,12
+
+Fall 2022,School E,SKM,DOMESTIC,Direct Entry,12,11
+
+Fall 2022,School E,SKM,DOMESTIC,Transfer,7,5
+
+Fall 2022,School E,SKM,INTERNATIONAL,Direct Entry,4,3
+
+Fall 2022,School E,UQB,DOMESTIC,Direct Entry,13,8
+
+Fall 2022,School E,UQB,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2022,School E,UQB,INTERNATIONAL,Transfer,1,0
+
+Fall 2022,School F,EGJ,DOMESTIC,Direct Entry,20,17
+
+Fall 2022,School F,EGJ,DOMESTIC,Transfer,6,4
+
+Fall 2022,School F,EGJ,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2022,School F,EGJ,INTERNATIONAL,Transfer,1,0
+
+Fall 2022,School F,KAU,DOMESTIC,Direct Entry,7,7
+
+Fall 2022,School F,KAU,INTERNATIONAL,Direct Entry,6,3
+
+Fall 2022,School F,KOK,DOMESTIC,Direct Entry,12,11
+
+Fall 2022,School F,KOK,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2022,School F,PFB,DOMESTIC,Direct Entry,106,90
+
+Fall 2022,School F,PFB,DOMESTIC,Foundation,53,44
+
+Fall 2022,School F,PFB,DOMESTIC,Transfer,12,8
+
+Fall 2022,School F,PFB,INTERNATIONAL,Direct Entry,34,32
+
+Fall 2022,School F,PFB,INTERNATIONAL,Foundation,13,12
+
+Fall 2022,School F,PFB,INTERNATIONAL,Transfer,3,1
+
+Fall 2022,School F,RZP,DOMESTIC,Direct Entry,41,34
+
+Fall 2022,School F,RZP,DOMESTIC,Foundation,14,12
+
+Fall 2022,School F,RZP,DOMESTIC,Transfer,4,2
+
+Fall 2022,School F,RZP,INTERNATIONAL,Direct Entry,14,13
+
+Fall 2022,School F,RZP,INTERNATIONAL,Transfer,4,3
+
+Fall 2022,School F,SYW,DOMESTIC,Direct Entry,13,8
+
+Fall 2022,School F,SYW,INTERNATIONAL,Direct Entry,6,5
+
+Fall 2022,School G,ICC,DOMESTIC,Direct Entry,9,3
+
+Fall 2022,School G,ICC,DOMESTIC,Transfer,4,2
+
+Fall 2022,School G,ICC,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2022,School G,ICC,INTERNATIONAL,Transfer,1,0
+
+Fall 2022,School G,IWU,DOMESTIC,Direct Entry,10,7
+
+Fall 2022,School G,IWU,DOMESTIC,Foundation,5,5
+
+Fall 2022,School G,IWU,DOMESTIC,Transfer,1,0
+
+Fall 2022,School G,IWU,INTERNATIONAL,Direct Entry,6,6
+
+Fall 2023,School A,CTD,DOMESTIC,Direct Entry,133,106
+
+Fall 2023,School A,CTD,DOMESTIC,Foundation,44,34
+
+Fall 2023,School A,CTD,DOMESTIC,Transfer,8,4
+
+Fall 2023,School A,CTD,INTERNATIONAL,Direct Entry,12,12
+
+Fall 2023,School A,DIB,DOMESTIC,Direct Entry,10,9
+
+Fall 2023,School A,DIB,INTERNATIONAL,Direct Entry,19,18
+
+Fall 2023,School A,DIB,INTERNATIONAL,Transfer,6,5
+
+Fall 2023,School A,HBP,DOMESTIC,Direct Entry,238,183
+
+Fall 2023,School A,HBP,DOMESTIC,Foundation,46,31
+
+Fall 2023,School A,HBP,DOMESTIC,Transfer,14,8
+
+Fall 2023,School A,HBP,INTERNATIONAL,Direct Entry,249,220
+
+Fall 2023,School A,HBP,INTERNATIONAL,Foundation,75,63
+
+Fall 2023,School A,HBP,INTERNATIONAL,Transfer,20,15
+
+Fall 2023,School A,REJ,DOMESTIC,Direct Entry,40,31
+
+Fall 2023,School A,REJ,DOMESTIC,Foundation,9,7
+
+Fall 2023,School A,REJ,DOMESTIC,Transfer,2,1
+
+Fall 2023,School A,REJ,INTERNATIONAL,Direct Entry,10,10
+
+Fall 2023,School A,REJ,INTERNATIONAL,Transfer,6,5
+
+Fall 2023,School A,XJQ,DOMESTIC,Direct Entry,15,14
+
+Fall 2023,School A,XJQ,DOMESTIC,Transfer,4,3
+
+Fall 2023,School A,XJQ,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2023,School A,XJQ,INTERNATIONAL,Transfer,2,1
+
+Fall 2023,School A,YDD,DOMESTIC,Direct Entry,5,5
+
+Fall 2023,School A,YDD,DOMESTIC,Transfer,2,1
+
+Fall 2023,School A,YDD,INTERNATIONAL,Direct Entry,10,9
+
+Fall 2023,School B,AEX,DOMESTIC,Direct Entry,21,17
+
+Fall 2023,School B,AEX,DOMESTIC,Foundation,10,10
+
+Fall 2023,School B,AEX,DOMESTIC,Transfer,3,1
+
+Fall 2023,School B,AEX,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2023,School B,CCH,DOMESTIC,Direct Entry,5,1
+
+Fall 2023,School B,DLF,DOMESTIC,Direct Entry,37,32
+
+Fall 2023,School B,DLF,DOMESTIC,Foundation,15,13
+
+Fall 2023,School B,DLF,DOMESTIC,Transfer,2,1
+
+Fall 2023,School B,DLF,INTERNATIONAL,Direct Entry,13,12
+
+Fall 2023,School B,DLF,INTERNATIONAL,Foundation,6,6
+
+Fall 2023,School B,DLF,INTERNATIONAL,Transfer,1,0
+
+Fall 2023,School B,ENR,DOMESTIC,Direct Entry,18,16
+
+Fall 2023,School B,ENR,DOMESTIC,Transfer,11,9
+
+Fall 2023,School B,ENR,INTERNATIONAL,Direct Entry,5,5
+
+Fall 2023,School B,FJC,DOMESTIC,Direct Entry,17,14
+
+Fall 2023,School B,FJC,DOMESTIC,Transfer,10,7
+
+Fall 2023,School B,FJC,INTERNATIONAL,Direct Entry,8,7
+
+Fall 2023,School B,GIZ,DOMESTIC,Direct Entry,19,15
+
+Fall 2023,School B,GIZ,DOMESTIC,Transfer,10,7
+
+Fall 2023,School B,GIZ,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2023,School B,JQP,DOMESTIC,Direct Entry,60,51
+
+Fall 2023,School B,JQP,DOMESTIC,Foundation,21,17
+
+Fall 2023,School B,JQP,DOMESTIC,Transfer,7,4
+
+Fall 2023,School B,JQP,INTERNATIONAL,Direct Entry,10,10
+
+Fall 2023,School B,JQP,INTERNATIONAL,Foundation,4,4
+
+Fall 2023,School B,JQP,INTERNATIONAL,Transfer,1,0
+
+Fall 2023,School B,QYB,DOMESTIC,Direct Entry,16,6
+
+Fall 2023,School B,QYB,DOMESTIC,Transfer,10,5
+
+Fall 2023,School B,QYB,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2023,School B,QYB,INTERNATIONAL,Transfer,1,0
+
+Fall 2023,School B,TWJ,DOMESTIC,Direct Entry,13,7
+
+Fall 2023,School B,TWJ,DOMESTIC,Transfer,6,3
+
+Fall 2023,School B,TWJ,INTERNATIONAL,Direct Entry,2,1
+
+Fall 2023,School B,TWJ,INTERNATIONAL,Transfer,2,1
+
+Fall 2023,School B,UQU,DOMESTIC,Direct Entry,8,5
+
+Fall 2023,School B,UQU,DOMESTIC,Transfer,5,2
+
+Fall 2023,School B,UQU,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2023,School B,XEM,DOMESTIC,Direct Entry,56,42
+
+Fall 2023,School B,XEM,DOMESTIC,Foundation,29,22
+
+Fall 2023,School B,XEM,DOMESTIC,Transfer,5,2
+
+Fall 2023,School B,XEM,INTERNATIONAL,Direct Entry,10,7
+
+Fall 2023,School B,XEM,INTERNATIONAL,Transfer,3,2
+
+Fall 2023,School C,AFX,DOMESTIC,Direct Entry,26,22
+
+Fall 2023,School C,AFX,DOMESTIC,Transfer,10,8
+
+Fall 2023,School C,AFX,INTERNATIONAL,Direct Entry,8,8
+
+Fall 2023,School C,AFX,INTERNATIONAL,Transfer,5,4
+
+Fall 2023,School C,CQK,DOMESTIC,Direct Entry,27,23
+
+Fall 2023,School C,CQK,DOMESTIC,Transfer,19,16
+
+Fall 2023,School C,CQK,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2023,School C,FOR,DOMESTIC,Direct Entry,14,10
+
+Fall 2023,School C,FOR,DOMESTIC,Transfer,8,6
+
+Fall 2023,School C,FOR,INTERNATIONAL,Direct Entry,6,5
+
+Fall 2023,School C,HIQ,DOMESTIC,Direct Entry,10,7
+
+Fall 2023,School C,HIQ,DOMESTIC,Transfer,5,3
+
+Fall 2023,School C,HIQ,INTERNATIONAL,Direct Entry,3,3
+
+Fall 2023,School C,HIQ,INTERNATIONAL,Transfer,1,0
+
+Fall 2023,School C,LBR,DOMESTIC,Direct Entry,14,10
+
+Fall 2023,School C,LBR,DOMESTIC,Transfer,4,3
+
+Fall 2023,School C,LBR,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2023,School C,NOS,DOMESTIC,Direct Entry,15,13
+
+Fall 2023,School C,NOS,DOMESTIC,Transfer,8,6
+
+Fall 2023,School C,NOS,INTERNATIONAL,Direct Entry,10,9
+
+Fall 2023,School C,PJN,DOMESTIC,Direct Entry,17,14
+
+Fall 2023,School C,PJN,DOMESTIC,Transfer,9,7
+
+Fall 2023,School C,PJN,INTERNATIONAL,Direct Entry,5,5
+
+Fall 2023,School C,RUP,DOMESTIC,Direct Entry,15,13
+
+Fall 2023,School C,RUP,DOMESTIC,Transfer,7,5
+
+Fall 2023,School C,RUP,INTERNATIONAL,Direct Entry,12,11
+
+Fall 2023,School C,UVZ,DOMESTIC,Direct Entry,33,28
+
+Fall 2023,School C,UVZ,DOMESTIC,Transfer,11,8
+
+Fall 2023,School C,UVZ,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2023,School C,UVZ,INTERNATIONAL,Transfer,1,0
+
+Fall 2023,School C,YDA,DOMESTIC,Direct Entry,9,9
+
+Fall 2023,School C,YDA,DOMESTIC,Transfer,3,2
+
+Fall 2023,School C,YDA,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2023,School C,YXQ,DOMESTIC,Direct Entry,31,28
+
+Fall 2023,School C,YXQ,DOMESTIC,Foundation,18,17
+
+Fall 2023,School C,YXQ,DOMESTIC,Transfer,4,2
+
+Fall 2023,School C,YXQ,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2023,School C,YXQ,INTERNATIONAL,Transfer,2,1
+
+Fall 2023,School D,CMX,DOMESTIC,Direct Entry,16,15
+
+Fall 2023,School D,CMX,DOMESTIC,Foundation,9,9
+
+Fall 2023,School D,CMX,DOMESTIC,Transfer,3,1
+
+Fall 2023,School D,HPA,DOMESTIC,Direct Entry,22,21
+
+Fall 2023,School D,HPA,DOMESTIC,Transfer,15,14
+
+Fall 2023,School D,IAU,DOMESTIC,Direct Entry,12,10
+
+Fall 2023,School D,IAU,DOMESTIC,Foundation,3,3
+
+Fall 2023,School D,IAU,DOMESTIC,Transfer,1,0
+
+Fall 2023,School D,IAU,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2023,School D,JRA,DOMESTIC,Direct Entry,27,18
+
+Fall 2023,School D,JRA,DOMESTIC,Transfer,11,7
+
+Fall 2023,School D,JVH,DOMESTIC,Direct Entry,26,21
+
+Fall 2023,School D,JVH,DOMESTIC,Transfer,12,8
+
+Fall 2023,School D,JVH,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2023,School D,KUY,DOMESTIC,Direct Entry,120,83
+
+Fall 2023,School D,KUY,DOMESTIC,Foundation,50,36
+
+Fall 2023,School D,KUY,DOMESTIC,Transfer,11,5
+
+Fall 2023,School D,KUY,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2023,School D,MFQ,DOMESTIC,Direct Entry,11,10
+
+Fall 2023,School D,MFQ,DOMESTIC,Transfer,5,4
+
+Fall 2023,School D,MFQ,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2023,School D,RFI,DOMESTIC,Direct Entry,14,12
+
+Fall 2023,School D,RFI,DOMESTIC,Transfer,10,8
+
+Fall 2023,School D,RFI,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2023,School D,RNV,DOMESTIC,Direct Entry,11,11
+
+Fall 2023,School D,RNV,DOMESTIC,Transfer,3,2
+
+Fall 2023,School D,THM,DOMESTIC,Direct Entry,23,22
+
+Fall 2023,School D,THM,DOMESTIC,Transfer,10,9
+
+Fall 2023,School D,UKS,DOMESTIC,Direct Entry,8,7
+
+Fall 2023,School D,UKS,DOMESTIC,Transfer,5,4
+
+Fall 2023,School D,XLL,DOMESTIC,Direct Entry,30,29
+
+Fall 2023,School D,XLL,DOMESTIC,Transfer,18,16
+
+Fall 2023,School D,ZCU,DOMESTIC,Direct Entry,22,21
+
+Fall 2023,School D,ZCU,DOMESTIC,Foundation,9,9
+
+Fall 2023,School D,ZCU,DOMESTIC,Transfer,2,1
+
+Fall 2023,School D,ZCU,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2023,School E,EDB,DOMESTIC,Direct Entry,14,14
+
+Fall 2023,School E,EDB,INTERNATIONAL,Direct Entry,3,1
+
+Fall 2023,School E,EDB,INTERNATIONAL,Transfer,2,1
+
+Fall 2023,School E,FCT,DOMESTIC,Direct Entry,11,6
+
+Fall 2023,School E,FCT,INTERNATIONAL,Direct Entry,4,3
+
+Fall 2023,School E,LOC,DOMESTIC,Direct Entry,8,7
+
+Fall 2023,School E,LOC,DOMESTIC,Transfer,5,4
+
+Fall 2023,School E,LOC,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2023,School E,NGF,DOMESTIC,Direct Entry,30,27
+
+Fall 2023,School E,NGF,DOMESTIC,Transfer,13,11
+
+Fall 2023,School E,NGF,INTERNATIONAL,Direct Entry,8,6
+
+Fall 2023,School E,PEW,DOMESTIC,Direct Entry,27,24
+
+Fall 2023,School E,PEW,DOMESTIC,Transfer,10,8
+
+Fall 2023,School E,PEW,INTERNATIONAL,Direct Entry,9,9
+
+Fall 2023,School E,SKM,DOMESTIC,Direct Entry,17,11
+
+Fall 2023,School E,SKM,DOMESTIC,Transfer,6,4
+
+Fall 2023,School E,SKM,INTERNATIONAL,Direct Entry,5,5
+
+Fall 2023,School E,UQB,DOMESTIC,Direct Entry,10,9
+
+Fall 2023,School E,UQB,INTERNATIONAL,Direct Entry,1,1
+
+Fall 2023,School E,UQB,INTERNATIONAL,Transfer,1,0
+
+Fall 2023,School F,EGJ,DOMESTIC,Direct Entry,24,23
+
+Fall 2023,School F,EGJ,DOMESTIC,Transfer,10,9
+
+Fall 2023,School F,KAU,DOMESTIC,Direct Entry,9,8
+
+Fall 2023,School F,KAU,INTERNATIONAL,Direct Entry,7,6
+
+Fall 2023,School F,KAU,INTERNATIONAL,Transfer,6,5
+
+Fall 2023,School F,KOK,DOMESTIC,Direct Entry,8,8
+
+Fall 2023,School F,KOK,INTERNATIONAL,Direct Entry,6,6
+
+Fall 2023,School F,KOK,INTERNATIONAL,Transfer,2,1
+
+Fall 2023,School F,PFB,DOMESTIC,Direct Entry,165,132
+
+Fall 2023,School F,PFB,DOMESTIC,Foundation,75,58
+
+Fall 2023,School F,PFB,DOMESTIC,Transfer,22,14
+
+Fall 2023,School F,PFB,INTERNATIONAL,Direct Entry,31,31
+
+Fall 2023,School F,PFB,INTERNATIONAL,Foundation,15,15
+
+Fall 2023,School F,PFB,INTERNATIONAL,Transfer,5,3
+
+Fall 2023,School F,RZP,DOMESTIC,Direct Entry,39,32
+
+Fall 2023,School F,RZP,DOMESTIC,Foundation,11,9
+
+Fall 2023,School F,RZP,DOMESTIC,Transfer,2,1
+
+Fall 2023,School F,RZP,INTERNATIONAL,Direct Entry,9,9
+
+Fall 2023,School F,SYW,DOMESTIC,Direct Entry,12,7
+
+Fall 2023,School F,SYW,INTERNATIONAL,Direct Entry,2,2
+
+Fall 2023,School F,SYW,INTERNATIONAL,Transfer,2,1
+
+Fall 2023,School G,ICC,DOMESTIC,Direct Entry,10,6
+
+Fall 2023,School G,ICC,DOMESTIC,Transfer,5,3
+
+Fall 2023,School G,ICC,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2023,School G,IWU,DOMESTIC,Direct Entry,9,9
+
+Fall 2023,School G,IWU,DOMESTIC,Transfer,5,4
+
+Fall 2023,School G,IWU,INTERNATIONAL,Direct Entry,4,4
+
+Fall 2024,School A,CTD,DOMESTIC,Direct Entry,104,85
+
+Fall 2024,School A,CTD,DOMESTIC,Foundation,47,37
+
+Fall 2024,School A,CTD,DOMESTIC,Transfer,15,9
+
+Fall 2024,School A,CTD,INTERNATIONAL,Direct Entry,6,5
+
+Fall 2024,School A,CTD,INTERNATIONAL,Transfer,4,3
+
+Fall 2024,School A,DIB,DOMESTIC,Direct Entry,8,7
+
+Fall 2024,School A,DIB,INTERNATIONAL,Direct Entry,14,13
+
+Fall 2024,School A,DIB,INTERNATIONAL,Foundation,6,6
+
+Fall 2024,School A,DIB,INTERNATIONAL,Transfer,1,0
+
+Fall 2024,School A,HBP,DOMESTIC,Direct Entry,207,162
+
+Fall 2024,School A,HBP,DOMESTIC,Foundation,92,69
+
+Fall 2024,School A,HBP,DOMESTIC,Transfer,19,12
+
+Fall 2024,School A,HBP,INTERNATIONAL,Direct Entry,245,220
+
+Fall 2024,School A,HBP,INTERNATIONAL,Foundation,80,70
+
+Fall 2024,School A,HBP,INTERNATIONAL,Transfer,15,11
+
+Fall 2024,School A,REJ,DOMESTIC,Direct Entry,43,33
+
+Fall 2024,School A,REJ,DOMESTIC,Foundation,10,8
+
+Fall 2024,School A,REJ,DOMESTIC,Transfer,2,1
+
+Fall 2024,School A,REJ,INTERNATIONAL,Direct Entry,13,12
+
+Fall 2024,School A,REJ,INTERNATIONAL,Transfer,4,3
+
+Fall 2024,School A,XJQ,DOMESTIC,Direct Entry,10,9
+
+Fall 2024,School A,XJQ,DOMESTIC,Transfer,6,5
+
+Fall 2024,School A,XJQ,INTERNATIONAL,Direct Entry,2,1
+
+Fall 2024,School A,YDD,DOMESTIC,Direct Entry,5,4
+
+Fall 2024,School A,YDD,INTERNATIONAL,Direct Entry,6,5
+
+Fall 2024,School A,YDD,INTERNATIONAL,Transfer,4,3
+
+Fall 2024,School B,AEX,DOMESTIC,Direct Entry,27,23
+
+Fall 2024,School B,AEX,DOMESTIC,Transfer,11,8
+
+Fall 2024,School B,AEX,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2024,School B,CCH,DOMESTIC,Direct Entry,3,0
+
+Fall 2024,School B,CCH,DOMESTIC,Transfer,1,0
+
+Fall 2024,School B,DLF,DOMESTIC,Direct Entry,35,30
+
+Fall 2024,School B,DLF,DOMESTIC,Transfer,11,8
+
+Fall 2024,School B,DLF,INTERNATIONAL,Direct Entry,14,13
+
+Fall 2024,School B,DLF,INTERNATIONAL,Transfer,5,4
+
+Fall 2024,School B,ENR,DOMESTIC,Direct Entry,18,16
+
+Fall 2024,School B,ENR,DOMESTIC,Transfer,13,11
+
+Fall 2024,School B,ENR,INTERNATIONAL,Direct Entry,2,1
+
+Fall 2024,School B,ENR,INTERNATIONAL,Transfer,2,1
+
+Fall 2024,School B,FJC,DOMESTIC,Direct Entry,17,14
+
+Fall 2024,School B,FJC,DOMESTIC,Transfer,11,8
+
+Fall 2024,School B,FJC,INTERNATIONAL,Direct Entry,5,4
+
+Fall 2024,School B,FJC,INTERNATIONAL,Transfer,2,1
+
+Fall 2024,School B,GIZ,DOMESTIC,Direct Entry,18,14
+
+Fall 2024,School B,GIZ,DOMESTIC,Transfer,9,6
+
+Fall 2024,School B,GIZ,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2024,School B,JQP,DOMESTIC,Direct Entry,53,44
+
+Fall 2024,School B,JQP,DOMESTIC,Foundation,18,17
+
+Fall 2024,School B,JQP,DOMESTIC,Transfer,5,2
+
+Fall 2024,School B,JQP,INTERNATIONAL,Direct Entry,13,12
+
+Fall 2024,School B,QYB,DOMESTIC,Direct Entry,18,7
+
+Fall 2024,School B,QYB,DOMESTIC,Transfer,9,4
+
+Fall 2024,School B,QYB,INTERNATIONAL,Direct Entry,2,1
+
+Fall 2024,School B,TWJ,DOMESTIC,Direct Entry,14,7
+
+Fall 2024,School B,TWJ,DOMESTIC,Transfer,5,2
+
+Fall 2024,School B,TWJ,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2024,School B,UQU,DOMESTIC,Direct Entry,8,4
+
+Fall 2024,School B,UQU,DOMESTIC,Transfer,3,1
+
+Fall 2024,School B,UQU,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2024,School B,XEM,DOMESTIC,Direct Entry,57,43
+
+Fall 2024,School B,XEM,DOMESTIC,Foundation,28,21
+
+Fall 2024,School B,XEM,DOMESTIC,Transfer,6,3
+
+Fall 2024,School B,XEM,INTERNATIONAL,Direct Entry,7,5
+
+Fall 2024,School B,XEM,INTERNATIONAL,Transfer,4,2
+
+Fall 2024,School C,AFX,DOMESTIC,Direct Entry,22,19
+
+Fall 2024,School C,AFX,DOMESTIC,Transfer,9,7
+
+Fall 2024,School C,AFX,INTERNATIONAL,Direct Entry,8,7
+
+Fall 2024,School C,AFX,INTERNATIONAL,Transfer,3,2
+
+Fall 2024,School C,CQK,DOMESTIC,Direct Entry,28,25
+
+Fall 2024,School C,CQK,DOMESTIC,Transfer,18,14
+
+Fall 2024,School C,CQK,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2024,School C,CQK,INTERNATIONAL,Transfer,2,1
+
+Fall 2024,School C,FOR,DOMESTIC,Direct Entry,18,13
+
+Fall 2024,School C,FOR,DOMESTIC,Foundation,5,5
+
+Fall 2024,School C,FOR,DOMESTIC,Transfer,1,0
+
+Fall 2024,School C,FOR,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2024,School C,FOR,INTERNATIONAL,Transfer,2,1
+
+Fall 2024,School C,HIQ,DOMESTIC,Direct Entry,13,9
+
+Fall 2024,School C,HIQ,INTERNATIONAL,Direct Entry,4,3
+
+Fall 2024,School C,LBR,DOMESTIC,Direct Entry,14,10
+
+Fall 2024,School C,LBR,DOMESTIC,Transfer,5,3
+
+Fall 2024,School C,LBR,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2024,School C,NOS,DOMESTIC,Direct Entry,14,12
+
+Fall 2024,School C,NOS,DOMESTIC,Transfer,7,5
+
+Fall 2024,School C,NOS,INTERNATIONAL,Direct Entry,8,7
+
+Fall 2024,School C,PJN,DOMESTIC,Direct Entry,19,16
+
+Fall 2024,School C,PJN,DOMESTIC,Transfer,9,7
+
+Fall 2024,School C,PJN,INTERNATIONAL,Direct Entry,5,4
+
+Fall 2024,School C,RUP,DOMESTIC,Direct Entry,13,11
+
+Fall 2024,School C,RUP,DOMESTIC,Transfer,6,4
+
+Fall 2024,School C,RUP,INTERNATIONAL,Direct Entry,12,11
+
+Fall 2024,School C,UVZ,DOMESTIC,Direct Entry,30,26
+
+Fall 2024,School C,UVZ,DOMESTIC,Transfer,14,10
+
+Fall 2024,School C,UVZ,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2024,School C,YDA,DOMESTIC,Direct Entry,13,12
+
+Fall 2024,School C,YDA,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2024,School C,YDA,INTERNATIONAL,Transfer,1,0
+
+Fall 2024,School C,YXQ,DOMESTIC,Direct Entry,30,27
+
+Fall 2024,School C,YXQ,DOMESTIC,Transfer,15,12
+
+Fall 2024,School C,YXQ,INTERNATIONAL,Direct Entry,6,5
+
+Fall 2024,School D,CMX,DOMESTIC,Direct Entry,18,16
+
+Fall 2024,School D,CMX,DOMESTIC,Foundation,5,5
+
+Fall 2024,School D,CMX,DOMESTIC,Transfer,1,0
+
+Fall 2024,School D,HPA,DOMESTIC,Direct Entry,23,22
+
+Fall 2024,School D,HPA,DOMESTIC,Transfer,13,12
+
+Fall 2024,School D,IAU,DOMESTIC,Direct Entry,11,9
+
+Fall 2024,School D,IAU,DOMESTIC,Transfer,7,5
+
+Fall 2024,School D,IAU,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2024,School D,JRA,DOMESTIC,Direct Entry,25,17
+
+Fall 2024,School D,JRA,DOMESTIC,Transfer,14,9
+
+Fall 2024,School D,JVH,DOMESTIC,Direct Entry,28,22
+
+Fall 2024,School D,JVH,DOMESTIC,Transfer,11,8
+
+Fall 2024,School D,JVH,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2024,School D,KUY,DOMESTIC,Direct Entry,110,77
+
+Fall 2024,School D,KUY,DOMESTIC,Foundation,42,29
+
+Fall 2024,School D,KUY,DOMESTIC,Transfer,8,4
+
+Fall 2024,School D,KUY,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2024,School D,MFQ,DOMESTIC,Direct Entry,12,11
+
+Fall 2024,School D,MFQ,DOMESTIC,Transfer,4,3
+
+Fall 2024,School D,MFQ,INTERNATIONAL,Direct Entry,2,1
+
+Fall 2024,School D,RFI,DOMESTIC,Direct Entry,18,16
+
+Fall 2024,School D,RFI,DOMESTIC,Transfer,8,6
+
+Fall 2024,School D,RFI,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2024,School D,RNV,DOMESTIC,Direct Entry,12,11
+
+Fall 2024,School D,THM,DOMESTIC,Direct Entry,19,18
+
+Fall 2024,School D,THM,DOMESTIC,Transfer,12,11
+
+Fall 2024,School D,UKS,DOMESTIC,Direct Entry,13,12
+
+Fall 2024,School D,XLL,DOMESTIC,Direct Entry,34,33
+
+Fall 2024,School D,XLL,DOMESTIC,Foundation,13,13
+
+Fall 2024,School D,XLL,DOMESTIC,Transfer,3,1
+
+Fall 2024,School D,ZCU,DOMESTIC,Direct Entry,17,16
+
+Fall 2024,School D,ZCU,DOMESTIC,Transfer,11,10
+
+Fall 2024,School D,ZCU,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2024,School E,EDB,DOMESTIC,Direct Entry,11,10
+
+Fall 2024,School E,EDB,DOMESTIC,Transfer,4,3
+
+Fall 2024,School E,EDB,INTERNATIONAL,Direct Entry,5,2
+
+Fall 2024,School E,FCT,DOMESTIC,Direct Entry,10,5
+
+Fall 2024,School E,FCT,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2024,School E,LOC,DOMESTIC,Direct Entry,11,10
+
+Fall 2024,School E,LOC,INTERNATIONAL,Direct Entry,2,1
+
+Fall 2024,School E,LOC,INTERNATIONAL,Transfer,1,0
+
+Fall 2024,School E,NGF,DOMESTIC,Direct Entry,29,26
+
+Fall 2024,School E,NGF,DOMESTIC,Transfer,15,12
+
+Fall 2024,School E,NGF,INTERNATIONAL,Direct Entry,4,2
+
+Fall 2024,School E,NGF,INTERNATIONAL,Transfer,2,1
+
+Fall 2024,School E,PEW,DOMESTIC,Direct Entry,30,27
+
+Fall 2024,School E,PEW,DOMESTIC,Foundation,9,9
+
+Fall 2024,School E,PEW,DOMESTIC,Transfer,1,0
+
+Fall 2024,School E,PEW,INTERNATIONAL,Direct Entry,10,9
+
+Fall 2024,School E,SKM,DOMESTIC,Direct Entry,14,9
+
+Fall 2024,School E,SKM,DOMESTIC,Transfer,8,5
+
+Fall 2024,School E,SKM,INTERNATIONAL,Direct Entry,5,4
+
+Fall 2024,School E,UQB,DOMESTIC,Direct Entry,10,9
+
+Fall 2024,School E,UQB,INTERNATIONAL,Direct Entry,1,0
+
+Fall 2024,School E,UQB,INTERNATIONAL,Transfer,1,0
+
+Fall 2024,School F,EGJ,DOMESTIC,Direct Entry,25,24
+
+Fall 2024,School F,EGJ,DOMESTIC,Transfer,8,7
+
+Fall 2024,School F,KAU,DOMESTIC,Direct Entry,6,5
+
+Fall 2024,School F,KAU,DOMESTIC,Transfer,2,1
+
+Fall 2024,School F,KAU,INTERNATIONAL,Direct Entry,11,10
+
+Fall 2024,School F,KOK,DOMESTIC,Direct Entry,7,6
+
+Fall 2024,School F,KOK,INTERNATIONAL,Direct Entry,8,7
+
+Fall 2024,School F,PFB,DOMESTIC,Direct Entry,174,142
+
+Fall 2024,School F,PFB,DOMESTIC,Foundation,80,61
+
+Fall 2024,School F,PFB,DOMESTIC,Transfer,21,14
+
+Fall 2024,School F,PFB,INTERNATIONAL,Direct Entry,31,31
+
+Fall 2024,School F,PFB,INTERNATIONAL,Transfer,12,10
+
+Fall 2024,School F,RZP,DOMESTIC,Direct Entry,40,33
+
+Fall 2024,School F,RZP,DOMESTIC,Foundation,9,7
+
+Fall 2024,School F,RZP,DOMESTIC,Transfer,3,1
+
+Fall 2024,School F,RZP,INTERNATIONAL,Direct Entry,8,7
+
+Fall 2024,School F,SYW,DOMESTIC,Direct Entry,8,4
+
+Fall 2024,School F,SYW,DOMESTIC,Transfer,3,1
+
+Fall 2024,School F,SYW,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2024,School G,ICC,DOMESTIC,Direct Entry,12,7
+
+Fall 2024,School G,ICC,DOMESTIC,Transfer,4,2
+
+Fall 2024,School G,ICC,INTERNATIONAL,Direct Entry,3,2
+
+Fall 2024,School G,IWU,DOMESTIC,Direct Entry,10,9
+
+Fall 2024,School G,IWU,DOMESTIC,Transfer,5,4
+
+Fall 2024,School G,IWU,INTERNATIONAL,Direct Entry,3,2
+
